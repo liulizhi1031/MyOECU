@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=J1 Old Footprint=DSUB1.385-2H9 New Footprint=DB9_1
+Change Component Comment : Designator=J1 Old Comment=D Connector 9 New Comment=DB9_1
+Change component parameters: Designator = "J1" ("J1"); Footprint = "DSUB1.385-2H9"; UniqueID = "\PYEFWSZG" ("\PYEFWSZG")
+Added Member To Class: ClassName=OECU_BASE1 Member=Component J1 DB9_1
+Added Member To Class: ClassName=OECU_BASE1 Member=Component M1 ZYNQ_CORE
+Added Member To Class: ClassName=OECU_BASE1 Member=Component M2 MyJtag
+Added Member To Class: ClassName=OECU_BASE1 Member=Component RJ0 RJ45
+Added Member To Class: ClassName=OECU_BASE2 Member=Component RJ1 RJ45
+Added Member To Class: ClassName=OECU_BASE2 Member=Component RJ2 RJ45
+Added Member To Class: ClassName=OECU_BASE2 Member=Component RJ3 RJ45
+Added Member To Class: ClassName=OECU_BASE2 Member=Component RJ4 RJ45
+Added Member To Class: ClassName=OECU_BASE1 Member=Component U0 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U1 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U2 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U3 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U4 RTL8211FS(I)

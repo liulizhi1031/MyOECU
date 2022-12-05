@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=IO34_22P Pin=M1-70
+Removed Pin From Net: NetName=IO34_22N Pin=M1-72
+Removed Member From Class: ClassName=OECU_BASE5 Member=T1
+Added Pin To Net: NetName=IO13_22N Pin=M1-72
+Added Net: Name=IO13_22N
+Added Pin To Net: NetName=IO13_22P Pin=M1-70
+Added Net: Name=IO13_22P
+Added Member To Class: ClassName=OECU_BASE3 Member=Component U1 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE3 Member=Component U2 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE5 Member=Component U5 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE5 Member=Component U6 RTL8211FS(I)

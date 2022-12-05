@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U0
+Added Component: Designator=U1(QFN48)
+Added Component: Designator=U2(QFN48)
+Added Component: Designator=U3(QFN48)
+Added Component: Designator=U4(QFN48)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U1 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U2 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U3 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U4 RTL8211FS(I)

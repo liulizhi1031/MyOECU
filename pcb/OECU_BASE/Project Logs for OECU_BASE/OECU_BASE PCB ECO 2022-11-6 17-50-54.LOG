@@ -1,0 +1,4 @@
+Added Component: Designator=RST_ESR(KEY_SMT_L_2_4_3.5)
+Added Component: Designator=RST_POR(KEY_SMT_L_2_4_3.5)
+Added Member To Class: ClassName=OECU_BASE1 Member=Component RST_ESR KEY_SMT_L_2_4_3.5
+Added Member To Class: ClassName=OECU_BASE1 Member=Component RST_POR KEY_SMT_L_2_4_3.5

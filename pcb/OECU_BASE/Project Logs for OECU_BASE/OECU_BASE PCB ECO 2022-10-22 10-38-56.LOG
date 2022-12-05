@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=RJ450 NewDesignator=RJ0
+Added Component: Designator=M2(MyJatg_1)
+Added Component: Designator=RJ1(HR911130A)
+Added Component: Designator=RJ2(HR911130A)
+Added Component: Designator=RJ3(HR911130A)
+Added Component: Designator=RJ4(HR911130A)
+Added Component: Designator=U1(QFN48)
+Added Class: Name=OECU_BASE1
+Added Class: Name=OECU_BASE2

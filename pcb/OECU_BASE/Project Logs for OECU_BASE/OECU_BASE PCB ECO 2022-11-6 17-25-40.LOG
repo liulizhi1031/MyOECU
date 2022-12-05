@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=USB Old Footprint=USB_C_16PIN_SMT New Footprint=USB_C_6PIN
+Change Component Comment : Designator=USB Old Comment=USB_C_16P_SMT New Comment=USB_C_6P

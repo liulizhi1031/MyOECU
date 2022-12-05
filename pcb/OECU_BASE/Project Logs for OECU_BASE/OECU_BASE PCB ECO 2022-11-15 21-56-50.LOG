@@ -1,0 +1,87 @@
+Removed Member From Class: ClassName=OECU_BASE1 Member=J1
+Change Component Footprint: Designator=USB Old Footprint=USB_C_6PIN New Footprint=USB_C_16PIN_SMT
+Change Component Comment : Designator=USB Old Comment=USB_C_6P New Comment=USB_C_16P_SMT
+Change Component Designator: OldDesignator=S1 NewDesignator=SW1
+Change Component Designator: OldDesignator=S2 NewDesignator=SW2
+Added Component: Designator=KE_2(KE_2_1.27)
+Added Component: Designator=L0(0603_C)
+Added Component: Designator=R1(0603_R)
+Added Component: Designator=R2(0603_R)
+Added Component: Designator=R3(0603_R)
+Added Component: Designator=R4(0603_R)
+Added Component: Designator=R5(0603_R)
+Added Component: Designator=R6(0603_R)
+Added Component: Designator=U7(USB3320C)
+Added Component: Designator=Y0(XTAL_3225)
+Added Component: Designator=Y7(XTAL_3225)
+Added Pin To Net: NetName=GND Pin=KE_2-1
+Added Pin To Net: NetName=GND Pin=KE_2-2
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-5
+Added Pin To Net: NetName=J_TCK Pin=M2-6
+Added Pin To Net: NetName=J_TDO Pin=M2-7
+Added Pin To Net: NetName=J_TMS Pin=M2-8
+Added Pin To Net: NetName=J_TDI Pin=M2-10
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=QSPI_D3 Pin=R5-2
+Added Pin To Net: NetName=QSPI_D2 Pin=R6-2
+Added Pin To Net: NetName=PS_SRET_B Pin=RST_ESR-1
+Added Pin To Net: NetName=GND Pin=RST_ESR-2
+Added Pin To Net: NetName=RES_POR Pin=RST_POR-1
+Added Pin To Net: NetName=GND Pin=RST_POR-2
+Added Pin To Net: NetName=5V Pin=SW1-2
+Added Pin To Net: NetName=5V Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=USB-0
+Added Pin To Net: NetName=GND Pin=USB-0
+Added Pin To Net: NetName=GND Pin=USB-0
+Added Pin To Net: NetName=GND Pin=USB-0
+Added Pin To Net: NetName=GND Pin=USB-1
+Added Pin To Net: NetName=GND Pin=USB-12
+Added Pin To Net: NetName=3V3 Pin=M2-4
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetKE_2_3 Pin=KE_2-3
+Added Pin To Net: NetName=NetKE_2_3 Pin=R4-1
+Added Pin To Net: NetName=NetKE_2_3 Pin=R6-1
+Added Net: Name=NetKE_2_3
+Added Pin To Net: NetName=NetKE_2_4 Pin=KE_2-4
+Added Pin To Net: NetName=NetKE_2_4 Pin=R3-1
+Added Pin To Net: NetName=NetKE_2_4 Pin=R5-1
+Added Net: Name=NetKE_2_4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=USB-4
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=USB-10
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetUSB_5 Pin=USB-5
+Added Pin To Net: NetName=NetUSB_5 Pin=USB-7
+Added Net: Name=NetUSB_5
+Added Pin To Net: NetName=NetUSB_6 Pin=USB-6
+Added Pin To Net: NetName=NetUSB_6 Pin=USB-8
+Added Net: Name=NetUSB_6
+Added Pin To Net: NetName=U0_RX Pin=M1-192
+Added Pin To Net: NetName=U0_RX Pin=M2-2
+Added Net: Name=U0_RX
+Added Pin To Net: NetName=U0_TX Pin=M1-202
+Added Pin To Net: NetName=U0_TX Pin=M2-3
+Added Net: Name=U0_TX
+Added Pin To Net: NetName=VBUS Pin=SW1-1
+Added Pin To Net: NetName=VBUS Pin=SW2-1
+Added Pin To Net: NetName=VBUS Pin=USB-2
+Added Pin To Net: NetName=VBUS Pin=USB-11
+Added Net: Name=VBUS
+Added Member To Class: ClassName=OECU_BASE2 Member=Component J1 TF_Card
+Added Member To Class: ClassName=OECU_BASE1 Member=Component KE_2
+Added Member To Class: ClassName=OECU_BASE2 Member=Component L0 2.2uH
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R1 5.1K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R2 5.1K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R3 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R4 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R5 20K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R6 20K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component U7 USB3320C
+Added Member To Class: ClassName=OECU_BASE2 Member=Component Y0 25Mhz
+Added Member To Class: ClassName=OECU_BASE1 Member=Component Y7 24Mhz

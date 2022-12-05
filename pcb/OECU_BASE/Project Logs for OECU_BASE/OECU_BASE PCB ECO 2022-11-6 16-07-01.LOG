@@ -1,0 +1,401 @@
+Removed Member From Class: ClassName=OECU_BASE1 Member=P0
+Removed Member From Class: ClassName=OECU_BASE1 Member=U0
+Removed Member From Class: ClassName=OECU_BASE2 Member=U1
+Removed Member From Class: ClassName=OECU_BASE2 Member=U4
+Removed Member From Class: ClassName=OECU_BASE4 Member=U9
+Removed Member From Class: ClassName=OECU_BASE4 Member=U10
+Removed Member From Class: ClassName=OECU_BASE4 Member=U11
+Removed Member From Class: ClassName=OECU_BASE4 Member=U12
+Change Component Footprint: Designator=U3 Old Footprint=G2401CE New Footprint=QFN48
+Change Component Comment : Designator=U3 Old Comment=1000 BASE-T New Comment=RTL8211FS(I)
+Change Component Designator: OldDesignator=U5 NewDesignator=T1
+Change Component Designator: OldDesignator=U6 NewDesignator=U1
+Change Component Designator: OldDesignator=U7 NewDesignator=T2
+Change Component Designator: OldDesignator=U8 NewDesignator=U2
+Change Component Designator: OldDesignator=USB1 NewDesignator=USB
+Added Component: Designator=T3(G2401CE)
+Added Component: Designator=T4(G2401CE)
+Added Component: Designator=T5(G2401CE)
+Added Component: Designator=T6(G2401CE)
+Added Component: Designator=U5(QFN48)
+Added Component: Designator=U6(QFN48)
+Added Pin To Net: NetName=1V8 Pin=M1-7
+Added Pin To Net: NetName=1V8 Pin=M1-8
+Added Net: Name=1V8
+Added Pin To Net: NetName=5V Pin=M1-1
+Added Pin To Net: NetName=5V Pin=M1-2
+Added Pin To Net: NetName=5V Pin=M1-3
+Added Pin To Net: NetName=5V Pin=M1-4
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=M1-0
+Added Pin To Net: NetName=GND Pin=M1-0
+Added Pin To Net: NetName=GND Pin=M1-5
+Added Pin To Net: NetName=GND Pin=M1-6
+Added Pin To Net: NetName=GND Pin=M1-9
+Added Pin To Net: NetName=GND Pin=M1-10
+Added Pin To Net: NetName=GND Pin=M1-11
+Added Pin To Net: NetName=GND Pin=M1-12
+Added Pin To Net: NetName=GND Pin=M1-13
+Added Pin To Net: NetName=GND Pin=M1-14
+Added Pin To Net: NetName=GND Pin=M1-19
+Added Pin To Net: NetName=GND Pin=M1-20
+Added Pin To Net: NetName=GND Pin=M1-37
+Added Pin To Net: NetName=GND Pin=M1-38
+Added Pin To Net: NetName=GND Pin=M1-55
+Added Pin To Net: NetName=GND Pin=M1-56
+Added Pin To Net: NetName=GND Pin=M1-73
+Added Pin To Net: NetName=GND Pin=M1-74
+Added Pin To Net: NetName=GND Pin=M1-91
+Added Pin To Net: NetName=GND Pin=M1-92
+Added Pin To Net: NetName=GND Pin=M1-109
+Added Pin To Net: NetName=GND Pin=M1-110
+Added Pin To Net: NetName=GND Pin=M1-127
+Added Pin To Net: NetName=GND Pin=M1-128
+Added Pin To Net: NetName=GND Pin=M1-141
+Added Pin To Net: NetName=GND Pin=M1-142
+Added Pin To Net: NetName=GND Pin=M1-155
+Added Pin To Net: NetName=GND Pin=M1-156
+Added Pin To Net: NetName=GND Pin=M1-173
+Added Pin To Net: NetName=GND Pin=M1-174
+Added Pin To Net: NetName=GND Pin=M1-187
+Added Pin To Net: NetName=GND Pin=M1-188
+Added Pin To Net: NetName=GND Pin=M1-203
+Added Pin To Net: NetName=GND Pin=M1-204
+Added Net: Name=GND
+Added Pin To Net: NetName=IO13_11N Pin=M1-78
+Added Net: Name=IO13_11N
+Added Pin To Net: NetName=IO13_11P Pin=M1-76
+Added Net: Name=IO13_11P
+Added Pin To Net: NetName=IO13_12N Pin=M1-50
+Added Net: Name=IO13_12N
+Added Pin To Net: NetName=IO13_12P Pin=M1-52
+Added Net: Name=IO13_12P
+Added Pin To Net: NetName=IO13_13N Pin=M1-75
+Added Net: Name=IO13_13N
+Added Pin To Net: NetName=IO13_13P Pin=M1-77
+Added Net: Name=IO13_13P
+Added Pin To Net: NetName=IO13_14N Pin=M1-79
+Added Net: Name=IO13_14N
+Added Pin To Net: NetName=IO13_14P Pin=M1-81
+Added Net: Name=IO13_14P
+Added Pin To Net: NetName=IO13_15N Pin=M1-80
+Added Net: Name=IO13_15N
+Added Pin To Net: NetName=IO13_15P Pin=M1-82
+Added Net: Name=IO13_15P
+Added Pin To Net: NetName=IO13_16N Pin=M1-84
+Added Net: Name=IO13_16N
+Added Pin To Net: NetName=IO13_16P Pin=M1-86
+Added Net: Name=IO13_16P
+Added Pin To Net: NetName=IO13_17N Pin=M1-45
+Added Net: Name=IO13_17N
+Added Pin To Net: NetName=IO13_17P Pin=M1-47
+Added Net: Name=IO13_17P
+Added Pin To Net: NetName=IO13_18N Pin=M1-83
+Added Net: Name=IO13_18N
+Added Pin To Net: NetName=IO13_18P Pin=M1-85
+Added Net: Name=IO13_18P
+Added Pin To Net: NetName=IO13_19N Pin=M1-46
+Added Net: Name=IO13_19N
+Added Pin To Net: NetName=IO13_19P Pin=M1-48
+Added Net: Name=IO13_19P
+Added Pin To Net: NetName=IO13_20N Pin=M1-89
+Added Net: Name=IO13_20N
+Added Pin To Net: NetName=IO13_20P Pin=M1-87
+Added Net: Name=IO13_20P
+Added Pin To Net: NetName=IO13_21N Pin=M1-49
+Added Net: Name=IO13_21N
+Added Pin To Net: NetName=IO13_21P Pin=M1-51
+Added Net: Name=IO13_21P
+Added Pin To Net: NetName=IO34_1N Pin=M1-88
+Added Net: Name=IO34_1N
+Added Pin To Net: NetName=IO34_1P Pin=M1-90
+Added Net: Name=IO34_1P
+Added Pin To Net: NetName=IO34_2N Pin=M1-63
+Added Net: Name=IO34_2N
+Added Pin To Net: NetName=IO34_2P Pin=M1-61
+Added Net: Name=IO34_2P
+Added Pin To Net: NetName=IO34_4N Pin=M1-96
+Added Net: Name=IO34_4N
+Added Pin To Net: NetName=IO34_4P Pin=M1-94
+Added Net: Name=IO34_4P
+Added Pin To Net: NetName=IO34_5N Pin=M1-58
+Added Net: Name=IO34_5N
+Added Pin To Net: NetName=IO34_5P Pin=M1-60
+Added Net: Name=IO34_5P
+Added Pin To Net: NetName=IO34_6N Pin=M1-67
+Added Net: Name=IO34_6N
+Added Pin To Net: NetName=IO34_6P Pin=M1-65
+Added Net: Name=IO34_6P
+Added Pin To Net: NetName=IO34_7N Pin=M1-99
+Added Net: Name=IO34_7N
+Added Pin To Net: NetName=IO34_7P Pin=M1-97
+Added Net: Name=IO34_7P
+Added Pin To Net: NetName=IO34_8N Pin=M1-93
+Added Net: Name=IO34_8N
+Added Pin To Net: NetName=IO34_8P Pin=M1-95
+Added Net: Name=IO34_8P
+Added Pin To Net: NetName=IO34_9N Pin=M1-113
+Added Net: Name=IO34_9N
+Added Pin To Net: NetName=IO34_9P Pin=M1-111
+Added Net: Name=IO34_9P
+Added Pin To Net: NetName=IO34_10N Pin=M1-118
+Added Net: Name=IO34_10N
+Added Pin To Net: NetName=IO34_10P Pin=M1-116
+Added Net: Name=IO34_10P
+Added Pin To Net: NetName=IO34_11N Pin=M1-107
+Added Net: Name=IO34_11N
+Added Pin To Net: NetName=IO34_11P Pin=M1-105
+Added Net: Name=IO34_11P
+Added Pin To Net: NetName=IO34_13N Pin=M1-106
+Added Net: Name=IO34_13N
+Added Pin To Net: NetName=IO34_13P Pin=M1-108
+Added Net: Name=IO34_13P
+Added Pin To Net: NetName=IO34_14N Pin=M1-143
+Added Net: Name=IO34_14N
+Added Pin To Net: NetName=IO34_14P Pin=M1-145
+Added Net: Name=IO34_14P
+Added Pin To Net: NetName=IO34_15N Pin=M1-137
+Added Net: Name=IO34_15N
+Added Pin To Net: NetName=IO34_15P Pin=M1-139
+Added Net: Name=IO34_15P
+Added Pin To Net: NetName=IO34_16N Pin=M1-133
+Added Net: Name=IO34_16N
+Added Pin To Net: NetName=IO34_16P Pin=M1-135
+Added Net: Name=IO34_16P
+Added Pin To Net: NetName=IO34_17N Pin=M1-131
+Added Net: Name=IO34_17N
+Added Pin To Net: NetName=IO34_17P Pin=M1-129
+Added Net: Name=IO34_17P
+Added Pin To Net: NetName=IO34_18N Pin=M1-132
+Added Net: Name=IO34_18N
+Added Pin To Net: NetName=IO34_18P Pin=M1-130
+Added Net: Name=IO34_18P
+Added Pin To Net: NetName=IO34_19N Pin=M1-104
+Added Net: Name=IO34_19N
+Added Pin To Net: NetName=IO34_19P Pin=M1-102
+Added Net: Name=IO34_19P
+Added Pin To Net: NetName=IO34_20N Pin=M1-66
+Added Net: Name=IO34_20N
+Added Pin To Net: NetName=IO34_20P Pin=M1-68
+Added Net: Name=IO34_20P
+Added Pin To Net: NetName=IO34_21N Pin=M1-136
+Added Net: Name=IO34_21N
+Added Pin To Net: NetName=IO34_21P Pin=M1-134
+Added Net: Name=IO34_21P
+Added Pin To Net: NetName=IO34_22N Pin=M1-72
+Added Pin To Net: NetName=IO34_22N Pin=M1-117
+Added Net: Name=IO34_22N
+Added Pin To Net: NetName=IO34_22P Pin=M1-70
+Added Pin To Net: NetName=IO34_22P Pin=M1-115
+Added Net: Name=IO34_22P
+Added Pin To Net: NetName=IO34_23N Pin=M1-101
+Added Net: Name=IO34_23N
+Added Pin To Net: NetName=IO34_23P Pin=M1-103
+Added Net: Name=IO34_23P
+Added Pin To Net: NetName=IO34_24N Pin=M1-62
+Added Net: Name=IO34_24N
+Added Pin To Net: NetName=IO34_24P Pin=M1-64
+Added Net: Name=IO34_24P
+Added Pin To Net: NetName=IO35_3N Pin=M1-166
+Added Net: Name=IO35_3N
+Added Pin To Net: NetName=IO35_3P Pin=M1-168
+Added Net: Name=IO35_3P
+Added Pin To Net: NetName=IO35_5N Pin=M1-167
+Added Net: Name=IO35_5N
+Added Pin To Net: NetName=IO35_5P Pin=M1-165
+Added Net: Name=IO35_5P
+Added Pin To Net: NetName=IO35_6N Pin=M1-164
+Added Net: Name=IO35_6N
+Added Pin To Net: NetName=IO35_6P Pin=M1-162
+Added Net: Name=IO35_6P
+Added Pin To Net: NetName=IO35_7N Pin=M1-149
+Added Net: Name=IO35_7N
+Added Pin To Net: NetName=IO35_7P Pin=M1-147
+Added Net: Name=IO35_7P
+Added Pin To Net: NetName=IO35_8N Pin=M1-71
+Added Net: Name=IO35_8N
+Added Pin To Net: NetName=IO35_8P Pin=M1-69
+Added Net: Name=IO35_8P
+Added Pin To Net: NetName=IO35_9N Pin=M1-153
+Added Net: Name=IO35_9N
+Added Pin To Net: NetName=IO35_9P Pin=M1-151
+Added Net: Name=IO35_9P
+Added Pin To Net: NetName=IO35_10N Pin=M1-140
+Added Net: Name=IO35_10N
+Added Pin To Net: NetName=IO35_10P Pin=M1-138
+Added Net: Name=IO35_10P
+Added Pin To Net: NetName=IO35_11N Pin=M1-114
+Added Net: Name=IO35_11N
+Added Pin To Net: NetName=IO35_11P Pin=M1-112
+Added Net: Name=IO35_11P
+Added Pin To Net: NetName=IO35_12N Pin=M1-126
+Added Net: Name=IO35_12N
+Added Pin To Net: NetName=IO35_12P Pin=M1-124
+Added Net: Name=IO35_12P
+Added Pin To Net: NetName=IO35_13N Pin=M1-59
+Added Net: Name=IO35_13N
+Added Pin To Net: NetName=IO35_13P Pin=M1-57
+Added Net: Name=IO35_13P
+Added Pin To Net: NetName=IO35_14N Pin=M1-146
+Added Net: Name=IO35_14N
+Added Pin To Net: NetName=IO35_14P Pin=M1-144
+Added Net: Name=IO35_14P
+Added Pin To Net: NetName=IO35_15N Pin=M1-199
+Added Net: Name=IO35_15N
+Added Pin To Net: NetName=IO35_15P\ Pin=M1-201
+Added Net: Name=IO35_15P\
+Added Pin To Net: NetName=IO35_17N Pin=M1-159
+Added Net: Name=IO35_17N
+Added Pin To Net: NetName=IO35_17P Pin=M1-157
+Added Net: Name=IO35_17P
+Added Pin To Net: NetName=IO35_18N Pin=M1-195
+Added Net: Name=IO35_18N
+Added Pin To Net: NetName=IO35_18P Pin=M1-197
+Added Net: Name=IO35_18P
+Added Pin To Net: NetName=IO35_19N Pin=M1-161
+Added Net: Name=IO35_19N
+Added Pin To Net: NetName=IO35_19P Pin=M1-163
+Added Net: Name=IO35_19P
+Added Pin To Net: NetName=IO35_20N Pin=M1-158
+Added Net: Name=IO35_20N
+Added Pin To Net: NetName=IO35_20P Pin=M1-160
+Added Net: Name=IO35_20P
+Added Pin To Net: NetName=IO35_21N Pin=M1-100
+Added Net: Name=IO35_21N
+Added Pin To Net: NetName=IO35_21P Pin=M1-98
+Added Net: Name=IO35_21P
+Added Pin To Net: NetName=IO35_22N Pin=M1-152
+Added Net: Name=IO35_22N
+Added Pin To Net: NetName=IO35_22P Pin=M1-154
+Added Net: Name=IO35_22P
+Added Pin To Net: NetName=IO35_23N Pin=M1-150
+Added Net: Name=IO35_23N
+Added Pin To Net: NetName=IO35_23P Pin=M1-148
+Added Net: Name=IO35_23P
+Added Pin To Net: NetName=IO35_24N Pin=M1-122
+Added Net: Name=IO35_24N
+Added Pin To Net: NetName=IO35_24P Pin=M1-120
+Added Net: Name=IO35_24P
+Added Pin To Net: NetName=J_TCK Pin=M1-27
+Added Net: Name=J_TCK
+Added Pin To Net: NetName=J_TDI Pin=M1-23
+Added Net: Name=J_TDI
+Added Pin To Net: NetName=J_TDO Pin=M1-25
+Added Net: Name=J_TDO
+Added Pin To Net: NetName=J_TMS Pin=M1-21
+Added Net: Name=J_TMS
+Added Pin To Net: NetName=MIO0 Pin=M1-18
+Added Net: Name=MIO0
+Added Pin To Net: NetName=MIO7 Pin=M1-24
+Added Net: Name=MIO7
+Added Pin To Net: NetName=MIO8 Pin=M1-17
+Added Net: Name=MIO8
+Added Pin To Net: NetName=MIO9 Pin=M1-22
+Added Net: Name=MIO9
+Added Pin To Net: NetName=MIO16 Pin=M1-176
+Added Net: Name=MIO16
+Added Pin To Net: NetName=MIO17 Pin=M1-171
+Added Net: Name=MIO17
+Added Pin To Net: NetName=MIO18 Pin=M1-175
+Added Net: Name=MIO18
+Added Pin To Net: NetName=MIO19 Pin=M1-177
+Added Net: Name=MIO19
+Added Pin To Net: NetName=MIO20 Pin=M1-179
+Added Net: Name=MIO20
+Added Pin To Net: NetName=MIO21 Pin=M1-172
+Added Net: Name=MIO21
+Added Pin To Net: NetName=MIO22 Pin=M1-181
+Added Net: Name=MIO22
+Added Pin To Net: NetName=MIO23 Pin=M1-178
+Added Net: Name=MIO23
+Added Pin To Net: NetName=MIO24 Pin=M1-180
+Added Net: Name=MIO24
+Added Pin To Net: NetName=MIO25 Pin=M1-170
+Added Net: Name=MIO25
+Added Pin To Net: NetName=MIO26 Pin=M1-182
+Added Net: Name=MIO26
+Added Pin To Net: NetName=MIO27 Pin=M1-169
+Added Net: Name=MIO27
+Added Pin To Net: NetName=MIO28 Pin=M1-42
+Added Net: Name=MIO28
+Added Pin To Net: NetName=MIO29 Pin=M1-36
+Added Net: Name=MIO29
+Added Pin To Net: NetName=MIO30 Pin=M1-44
+Added Net: Name=MIO30
+Added Pin To Net: NetName=MIO31 Pin=M1-41
+Added Net: Name=MIO31
+Added Pin To Net: NetName=MIO32 Pin=M1-34
+Added Net: Name=MIO32
+Added Pin To Net: NetName=MIO33 Pin=M1-31
+Added Net: Name=MIO33
+Added Pin To Net: NetName=MIO34 Pin=M1-32
+Added Net: Name=MIO34
+Added Pin To Net: NetName=MIO35 Pin=M1-39
+Added Net: Name=MIO35
+Added Pin To Net: NetName=MIO36 Pin=M1-29
+Added Net: Name=MIO36
+Added Pin To Net: NetName=MIO37 Pin=M1-35
+Added Net: Name=MIO37
+Added Pin To Net: NetName=MIO38 Pin=M1-33
+Added Net: Name=MIO38
+Added Pin To Net: NetName=MIO39 Pin=M1-40
+Added Net: Name=MIO39
+Added Pin To Net: NetName=MIO40 Pin=M1-183
+Added Net: Name=MIO40
+Added Pin To Net: NetName=MIO41 Pin=M1-193
+Added Net: Name=MIO41
+Added Pin To Net: NetName=MIO42 Pin=M1-184
+Added Net: Name=MIO42
+Added Pin To Net: NetName=MIO43 Pin=M1-200
+Added Net: Name=MIO43
+Added Pin To Net: NetName=MIO44 Pin=M1-186
+Added Net: Name=MIO44
+Added Pin To Net: NetName=MIO45 Pin=M1-189
+Added Net: Name=MIO45
+Added Pin To Net: NetName=MIO46 Pin=M1-185
+Added Net: Name=MIO46
+Added Pin To Net: NetName=MIO47 Pin=M1-190
+Added Net: Name=MIO47
+Added Pin To Net: NetName=MIO48 Pin=M1-194
+Added Net: Name=MIO48
+Added Pin To Net: NetName=MIO49 Pin=M1-191
+Added Net: Name=MIO49
+Added Pin To Net: NetName=MIO50 Pin=M1-192
+Added Net: Name=MIO50
+Added Pin To Net: NetName=MIO51 Pin=M1-202
+Added Net: Name=MIO51
+Added Pin To Net: NetName=MIO52 Pin=M1-196
+Added Net: Name=MIO52
+Added Pin To Net: NetName=MIO53 Pin=M1-198
+Added Net: Name=MIO53
+Added Pin To Net: NetName=PL_GCLK Pin=M1-119
+Added Net: Name=PL_GCLK
+Added Pin To Net: NetName=POR_B Pin=M1-26
+Added Net: Name=POR_B
+Added Pin To Net: NetName=PS_SRET_B Pin=M1-30
+Added Net: Name=PS_SRET_B
+Added Pin To Net: NetName=QSPI_D2 Pin=M1-15
+Added Net: Name=QSPI_D2
+Added Pin To Net: NetName=QSPI_D3 Pin=M1-16
+Added Net: Name=QSPI_D3
+Added Pin To Net: NetName=R19 Pin=M1-125
+Added Net: Name=R19
+Added Pin To Net: NetName=RES_POR Pin=M1-28
+Added Net: Name=RES_POR
+Added Pin To Net: NetName=T19 Pin=M1-123
+Added Net: Name=T19
+Added Pin To Net: NetName=U13 Pin=M1-54
+Added Net: Name=U13
+Added Pin To Net: NetName=U19 Pin=M1-121
+Added Net: Name=U19
+Added Pin To Net: NetName=V5 Pin=M1-43
+Added Net: Name=V5
+Added Pin To Net: NetName=V13 Pin=M1-53
+Added Net: Name=V13
+Added Class: Name=OECU_BASE5
+Added Member To Class: ClassName=OECU_BASE2 Member=Component P0 RJ45
+Added Member To Class: ClassName=OECU_BASE4 Member=Component T3 1000 BASE-T
+Added Member To Class: ClassName=OECU_BASE4 Member=Component T4 1000 BASE-T
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U0 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE4 Member=Component U3 RTL8211FS(I)
+Added Member To Class: ClassName=OECU_BASE4 Member=Component U4 RTL8211FS(I)

@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=OECU_BASE1 Member=J1
+Change Component Footprint: Designator=M1 Old Footprint=DDR3_204P_H52 New Footprint=DDR3_204P_H92
+Change Component Footprint: Designator=U1 Old Footprint=QFN48 New Footprint=G2401CE
+Change Component Footprint: Designator=U2 Old Footprint=QFN48 New Footprint=G2401CE
+Change Component Footprint: Designator=U3 Old Footprint=QFN48 New Footprint=G2401CE
+Change Component Footprint: Designator=U4 Old Footprint=QFN48 New Footprint=G2401CE
+Change Component Comment : Designator=U1 Old Comment=RTL8211FS(I) New Comment=1000 BASE-T
+Change Component Comment : Designator=U2 Old Comment=RTL8211FS(I) New Comment=1000 BASE-T
+Change Component Comment : Designator=U3 Old Comment=RTL8211FS(I) New Comment=1000 BASE-T
+Change Component Comment : Designator=U4 Old Comment=RTL8211FS(I) New Comment=1000 BASE-T
+Change Component Comment : Designator=M1 Old Comment=ZYNQ_CORE New Comment=DDR3_204P_H92
+Added Component: Designator=RJ5(HR911130A)
+Added Component: Designator=RJ6(HR911130A)
+Added Component: Designator=U5(G2401CE)
+Added Component: Designator=U6(G2401CE)
+Added Member To Class: ClassName=OECU_BASE2 Member=Component RJ5 RJ45
+Added Member To Class: ClassName=OECU_BASE2 Member=Component RJ6 RJ45
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U5 1000 BASE-T
+Added Member To Class: ClassName=OECU_BASE2 Member=Component U6 1000 BASE-T
