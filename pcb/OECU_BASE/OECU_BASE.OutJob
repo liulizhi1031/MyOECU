@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=E:\1.My_Tech_Studio\1.Project\OpensourceEmbeddedComputingUnit\pcb\OECU_BASE\.PDF
+OutputFilePath2=E:\1.My_Tech_Studio\1.Project\MyOECU\pcb\OECU_BASE\.PDF
 ReleaseManaged2=0
-OutputBasePath2=E:\1.My_Tech_Studio\1.Project\OpensourceEmbeddedComputingUnit\pcb\OECU_BASE\
+OutputBasePath2=E:\1.My_Tech_Studio\1.Project\MyOECU\pcb\OECU_BASE\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=E:\1.My_Tech_Studio\1.Project\OpensourceEmbeddedComputingUnit\pcb\OECU_BASE\.PDF
+RelativeOutputPath2=E:\1.My_Tech_Studio\1.Project\MyOECU\pcb\OECU_BASE\.PDF
 OpenOutputs2=0
 RelativeOutputPath3=
 OpenOutputs3=1
