@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=NetLED1_K Pin=R11-2
+Added Component: Designator=LED2(LED_0603)
+Added Component: Designator=R265(R_0402)
+Added Pin To Net: NetName=3V3 Pin=LED2-A
+Added Pin To Net: NetName=NetLED1_K Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R265-2
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-K
+Added Pin To Net: NetName=NetLED2_K Pin=R265-1
+Added Net: Name=NetLED2_K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component LED2 LED
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R265 1K
