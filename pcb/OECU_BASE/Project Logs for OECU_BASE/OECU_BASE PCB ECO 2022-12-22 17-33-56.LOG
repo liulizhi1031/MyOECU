@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=IO13_15_P Pin=DB2-4
+Removed Pin From Net: NetName=IO13_14_P Pin=DB2-5
+Removed Pin From Net: NetName=IO13_11_N Pin=DB2-6
+Removed Pin From Net: NetName=IO13_13_P Pin=DB2-7
+Removed Pin From Net: NetName=IO13_15_N Pin=DB2-17
+Removed Pin From Net: NetName=IO13_14_N Pin=DB2-18
+Removed Pin From Net: NetName=IO13_11_P Pin=DB2-19
+Removed Pin From Net: NetName=IO13_13_N Pin=DB2-20
+Added Pin To Net: NetName=IO13_14_P Pin=DB2-4
+Added Pin To Net: NetName=IO13_13_P Pin=DB2-5
+Added Pin To Net: NetName=IO13_15_P Pin=DB2-6
+Added Pin To Net: NetName=IO13_11_N Pin=DB2-7
+Added Pin To Net: NetName=IO13_14_N Pin=DB2-17
+Added Pin To Net: NetName=IO13_13_N Pin=DB2-18
+Added Pin To Net: NetName=IO13_15_N Pin=DB2-19
+Added Pin To Net: NetName=IO13_11_P Pin=DB2-20
