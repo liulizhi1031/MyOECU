@@ -1,0 +1,139 @@
+Protel Design System Design Rule Check
+PCB File : E:\1.My_Tech_Studio\1.Project\MyOECU\pcb\OECU_BASE\OECU_BASE.PcbDoc
+Date     : 2022/12/25
+Time     : 16:22:48
+
+Processing Rule : Clearance Constraint (Gap=12mil) (All),((InNetClass('RGMII0A') AND InNetClass('RGMII1A') AND InNetClass('RGMII2A') AND InNetClass('RGMII3A') AND InNetClass('RGMII4A') AND InNetClass('RGMII5A') AND InNetClass('RGMII6A')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+   Violation between Clearance Constraint: (2.559mil < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (3V3) on POWER 
+   Violation between Clearance Constraint: (2.572mil < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (3V3) on POWER 
+   Violation between Clearance Constraint: (3.028mil < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (3V3) on POWER 
+   Violation between Clearance Constraint: (3.05mil < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (3V3) on POWER 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (3V3) on POWER 
+   Violation between Clearance Constraint: (0.007mil < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (No Net) on POWER 
+   Violation between Clearance Constraint: (0.016mil < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (No Net) on POWER 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (No Net) on POWER 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Split Plane  (1V8) on POWER And Split Plane  (No Net) on POWER 
+   Violation between Clearance Constraint: (3.043mil < 8mil) Between Split Plane  (3V3) on POWER And Split Plane  (No Net) on POWER 
+   Violation between Clearance Constraint: (3.043mil < 8mil) Between Split Plane  (3V3) on POWER And Split Plane  (No Net) on POWER 
+Rule Violations :11
+
+Processing Rule : Clearance Constraint (Gap=12mil) (All),(InNetClass('DB25A'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=6mil) (Preferred=6mil) (InNetClass('DB25A'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=6mil) (Preferred=6mil) ((InNetClass('RGMII0A') AND InNetClass('RGMII1A') AND InNetClass('RGMII2A') AND InNetClass('RGMII3A') AND InNetClass('RGMII4A') AND InNetClass('RGMII5A') AND InNetClass('RGMII6A')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=20mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (128.346mil > 100mil) Pad DB1-26(649.606mil,924.173mil) on Multi-Layer Actual Hole Size = 128.346mil
+   Violation between Hole Size Constraint: (128.346mil > 100mil) Pad DB1-27(649.606mil,2776.614mil) on Multi-Layer Actual Hole Size = 128.346mil
+   Violation between Hole Size Constraint: (128.346mil > 100mil) Pad DB2-26(649.606mil,3128.898mil) on Multi-Layer Actual Hole Size = 128.346mil
+   Violation between Hole Size Constraint: (128.346mil > 100mil) Pad DB2-27(649.606mil,4981.339mil) on Multi-Layer Actual Hole Size = 128.346mil
+   Violation between Hole Size Constraint: (129.92mil > 100mil) Pad P1-(2057.48mil,822.835mil) on Multi-Layer Actual Hole Size = 129.92mil
+   Violation between Hole Size Constraint: (129.92mil > 100mil) Pad P1-(2509.45mil,822.835mil) on Multi-Layer Actual Hole Size = 129.92mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (3326.772mil,2244.095mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (3326.772mil,511.811mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (4153.543mil,2244.095mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (4153.543mil,511.811mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (511.811mil,511.811mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (511.811mil,5393.701mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (5299.213mil,1152.559mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (5299.213mil,2952.756mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (5299.213mil,4752.953mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (5393.701mil,511.811mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Via (5393.701mil,5393.701mil) from TOP to BOTTOM Actual Hole Size = 125.984mil
+Rule Violations :17
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=100000mil) ((InNetClass('RGMII0A') AND InNetClass('RGMII1A') AND InNetClass('RGMII2A') AND InNetClass('RGMII3A') AND InNetClass('RGMII4A') AND InNetClass('RGMII5A') AND InNetClass('RGMII6A')))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('MDI2A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('MDI0A'))
+   Violation between Matched Net Lengths: Between Net MDI0_0_N And Net MDI0_3_N Length:668.19mil is not within 50mil tolerance of Length:1212.642mil (494.452mil short) 
+   Violation between Matched Net Lengths: Between Net MDI0_0_P And Net MDI0_3_N Length:582.903mil is not within 50mil tolerance of Length:1212.642mil (579.739mil short) 
+   Violation between Matched Net Lengths: Between Net MDI0_1_N And Net MDI0_3_N Length:917.852mil is not within 50mil tolerance of Length:1212.642mil (244.79mil short) 
+   Violation between Matched Net Lengths: Between Net MDI0_1_N And Net MDI0_3_P Length:917.852mil is not within 50mil tolerance of Length:1130.123mil (162.271mil short) 
+   Violation between Matched Net Lengths: Between Net MDI0_1_P And Net MDI0_3_N Length:788.506mil is not within 50mil tolerance of Length:1212.642mil (374.136mil short) 
+   Violation between Matched Net Lengths: Between Net MDI0_2_N And Net MDI0_3_N Length:778.749mil is not within 50mil tolerance of Length:1212.642mil (383.893mil short) 
+   Violation between Matched Net Lengths: Between Net MDI0_2_P And Net MDI0_3_N Length:735.998mil is not within 50mil tolerance of Length:1212.642mil (426.644mil short) 
+Rule Violations :7
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('RGMII0A'))
+   Violation between Matched Net Lengths: Between Net MIO18 And Net MIO27 Length:2090.744mil is not within 50mil tolerance of Length:2149.296mil (8.552mil short) 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('MDI1A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('MDI5A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('MDI6A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('MDI3A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('MDI4A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('RGMII6A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('RGMII2A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('RGMII1A'))
+   Violation between Matched Net Lengths: Between Net IO34_1P And Net IO34_2N Length:3306.805mil is not within 50mil tolerance of Length:3362.871mil (6.066mil short) 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('RGMII3A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('RGMII5A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('RGMII4A'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 37
+Waived Violations : 0
+Time Elapsed        : 00:00:06
