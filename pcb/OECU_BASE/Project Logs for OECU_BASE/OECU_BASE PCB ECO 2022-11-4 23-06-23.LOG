@@ -1,9 +1,0 @@
-Removed Member From Class: ClassName=OECU_BASE2 Member=RJ1
-Removed Member From Class: ClassName=OECU_BASE2 Member=RJ2
-Removed Member From Class: ClassName=OECU_BASE2 Member=RJ3
-Removed Member From Class: ClassName=OECU_BASE2 Member=RJ4
-Removed Member From Class: ClassName=OECU_BASE2 Member=RJ5
-Removed Member From Class: ClassName=OECU_BASE2 Member=RJ6
-Change Component Designator: OldDesignator=RJ0 NewDesignator=P0
-Added Component: Designator=P1(RJ45_6_1)
-Added Member To Class: ClassName=OECU_BASE2 Member=Component P1 RJ45_6
