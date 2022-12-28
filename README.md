@@ -2,9 +2,9 @@
 
 **MyO**pensource**E**mbedded**C**ompute**U**nit (**MyOECU**)
 
-<img src="./img/OECU_SW_1.jpg" style="zoom:10%;" />
+<img src="./img/OECU_SW1.jpg" style="zoom:10%;" />
 
-<img src="./img/OECU_SW_2.jpg" style="zoom:10%;" />
+<img src="./img/OECU_SW2.jpg" style="zoom:10%;" />
 
 - ## 简介
 
