@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Member From Class: ClassName=OECU_BASE1 Member=C8

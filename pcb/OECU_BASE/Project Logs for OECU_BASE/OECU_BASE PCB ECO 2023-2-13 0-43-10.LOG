@@ -1,0 +1,419 @@
+Removed Member From Class: ClassName=OECU_BASE1 Member=C12
+Removed Member From Class: ClassName=OECU_BASE1 Member=C14
+Removed Member From Class: ClassName=OECU_BASE1 Member=C16
+Removed Member From Class: ClassName=OECU_BASE2 Member=C29
+Removed Member From Class: ClassName=OECU_BASE2 Member=C33
+Removed Member From Class: ClassName=OECU_BASE2 Member=C34
+Removed Member From Class: ClassName=OECU_BASE4 Member=C59
+Removed Member From Class: ClassName=OECU_BASE4 Member=C63
+Removed Member From Class: ClassName=OECU_BASE4 Member=C64
+Removed Member From Class: ClassName=OECU_BASE5 Member=C89
+Removed Member From Class: ClassName=OECU_BASE5 Member=C93
+Removed Member From Class: ClassName=OECU_BASE5 Member=C94
+Removed Member From Class: ClassName=OECU_BASE6 Member=C119
+Removed Member From Class: ClassName=OECU_BASE6 Member=C121
+Removed Member From Class: ClassName=OECU_BASE6 Member=C123
+Removed Member From Class: ClassName=OECU_BASE3 Member=H1
+Removed Member From Class: ClassName=OECU_BASE3 Member=H2
+Removed Member From Class: ClassName=OECU_BASE3 Member=JTAG1
+Removed Member From Class: ClassName=OECU_BASE1 Member=R24
+Removed Member From Class: ClassName=OECU_BASE1 Member=R26
+Removed Member From Class: ClassName=OECU_BASE1 Member=R37
+Removed Member From Class: ClassName=OECU_BASE2 Member=R48
+Removed Member From Class: ClassName=OECU_BASE2 Member=R50
+Removed Member From Class: ClassName=OECU_BASE2 Member=R52
+Removed Member From Class: ClassName=OECU_BASE4 Member=R95
+Removed Member From Class: ClassName=OECU_BASE4 Member=R96
+Removed Member From Class: ClassName=OECU_BASE4 Member=R97
+Removed Member From Class: ClassName=OECU_BASE5 Member=R140
+Removed Member From Class: ClassName=OECU_BASE5 Member=R141
+Removed Member From Class: ClassName=OECU_BASE5 Member=R142
+Removed Member From Class: ClassName=OECU_BASE6 Member=R186
+Removed Member From Class: ClassName=OECU_BASE6 Member=R188
+Removed Member From Class: ClassName=OECU_BASE6 Member=R190
+Removed Member From Class: ClassName=OECU_BASE1 Member=U5
+Removed Member From Class: ClassName=OECU_BASE1 Member=U6
+Removed Member From Class: ClassName=OECU_BASE4 Member=U9
+Removed Member From Class: ClassName=OECU_BASE5 Member=U10
+Removed Member From Class: ClassName=OECU_BASE5 Member=U11
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C13 NewDesignator=C20
+Change Component Designator: OldDesignator=C14 NewDesignator=C25
+Change Component Designator: OldDesignator=C15 NewDesignator=C26
+Change Component Designator: OldDesignator=C16 NewDesignator=C13
+Change Component Designator: OldDesignator=C17 NewDesignator=C14
+Change Component Designator: OldDesignator=C18 NewDesignator=C15
+Change Component Designator: OldDesignator=C19 NewDesignator=C16
+Change Component Designator: OldDesignator=C20 NewDesignator=C17
+Change Component Designator: OldDesignator=C21 NewDesignator=C18
+Change Component Designator: OldDesignator=C22 NewDesignator=C19
+Change Component Designator: OldDesignator=C23 NewDesignator=C21
+Change Component Designator: OldDesignator=C24 NewDesignator=C22
+Change Component Designator: OldDesignator=C25 NewDesignator=C23
+Change Component Designator: OldDesignator=C26 NewDesignator=C24
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R14
+Change Component Designator: OldDesignator=R7 NewDesignator=R15
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R5
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R43
+Change Component Designator: OldDesignator=R35 NewDesignator=R44
+Change Component Designator: OldDesignator=R36 NewDesignator=R31
+Change Component Designator: OldDesignator=R37 NewDesignator=R35
+Change Component Designator: OldDesignator=R38 NewDesignator=R36
+Change Component Designator: OldDesignator=R39 NewDesignator=R37
+Change Component Designator: OldDesignator=R40 NewDesignator=R38
+Change Component Designator: OldDesignator=R41 NewDesignator=R39
+Change Component Designator: OldDesignator=R42 NewDesignator=R40
+Change Component Designator: OldDesignator=R43 NewDesignator=R41
+Change Component Designator: OldDesignator=R44 NewDesignator=R42
+Change Component Designator: OldDesignator=R190 NewDesignator=R193
+Change Component Designator: OldDesignator=R191 NewDesignator=R194
+Change Component Designator: OldDesignator=R192 NewDesignator=R195
+Change Component Designator: OldDesignator=R193 NewDesignator=R196
+Change Component Designator: OldDesignator=R194 NewDesignator=R197
+Change Component Designator: OldDesignator=R195 NewDesignator=R198
+Change Component Designator: OldDesignator=R196 NewDesignator=R199
+Change Component Designator: OldDesignator=R197 NewDesignator=R200
+Added Component: Designator=D*1(SOT23)
+Added Component: Designator=FAN1(SH1.25mm_2P)
+Added Component: Designator=OLED1(HDR1_7P)
+Added Component: Designator=R190(R_0402)
+Added Component: Designator=R191(R_0402)
+Added Component: Designator=R192(R_0402)
+Added Pin To Net: NetName=GND Pin=D*1-2
+Added Pin To Net: NetName=MIO36 Pin=H1-1
+Added Pin To Net: NetName=MIO33 Pin=H1-2
+Added Pin To Net: NetName=MIO38 Pin=H1-3
+Added Pin To Net: NetName=MIO37 Pin=H1-4
+Added Pin To Net: NetName=MIO35 Pin=H1-5
+Added Pin To Net: NetName=MIO31 Pin=H1-6
+Added Pin To Net: NetName=MIO46 Pin=H1-7
+Added Pin To Net: NetName=MIO49 Pin=H1-8
+Added Pin To Net: NetName=MIO51 Pin=H1-9
+Added Pin To Net: NetName=5V Pin=H1-10
+Added Pin To Net: NetName=MIO34 Pin=H1-11
+Added Pin To Net: NetName=MIO32 Pin=H1-12
+Added Pin To Net: NetName=MIO29 Pin=H1-13
+Added Pin To Net: NetName=MIO39 Pin=H1-14
+Added Pin To Net: NetName=MIO28 Pin=H1-15
+Added Pin To Net: NetName=MIO30 Pin=H1-16
+Added Pin To Net: NetName=MIO47 Pin=H1-17
+Added Pin To Net: NetName=MIO50 Pin=H1-18
+Added Pin To Net: NetName=MIO48 Pin=H1-19
+Added Pin To Net: NetName=GND Pin=H1-20
+Added Pin To Net: NetName=IO13_17N Pin=H2-1
+Added Pin To Net: NetName=IO13_17P Pin=H2-2
+Added Pin To Net: NetName=IO13_21N Pin=H2-3
+Added Pin To Net: NetName=IO13_21P Pin=H2-4
+Added Pin To Net: NetName=IO13_13N Pin=H2-5
+Added Pin To Net: NetName=IO13_13P Pin=H2-6
+Added Pin To Net: NetName=IO13_14N Pin=H2-7
+Added Pin To Net: NetName=IO13_14P Pin=H2-8
+Added Pin To Net: NetName=IO13_15N Pin=H2-9
+Added Pin To Net: NetName=5V Pin=H2-10
+Added Pin To Net: NetName=IO13_19N Pin=H2-11
+Added Pin To Net: NetName=IO13_19P Pin=H2-12
+Added Pin To Net: NetName=IO13_12N Pin=H2-13
+Added Pin To Net: NetName=IO13_12P Pin=H2-14
+Added Pin To Net: NetName=IO13_22P Pin=H2-15
+Added Pin To Net: NetName=IO13_22N Pin=H2-16
+Added Pin To Net: NetName=IO13_11P Pin=H2-17
+Added Pin To Net: NetName=IO13_11N Pin=H2-18
+Added Pin To Net: NetName=IO13_15P Pin=H2-19
+Added Pin To Net: NetName=GND Pin=H2-20
+Added Pin To Net: NetName=3V3 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=OLED1-1
+Added Pin To Net: NetName=3V3 Pin=OLED1-2
+Added Pin To Net: NetName=IO13_16N Pin=OLED1-3
+Added Pin To Net: NetName=IO13_18P Pin=OLED1-4
+Added Pin To Net: NetName=IO13_16P Pin=OLED1-5
+Added Pin To Net: NetName=IO13_20P Pin=OLED1-6
+Added Pin To Net: NetName=IO13_20N Pin=OLED1-7
+Added Pin To Net: NetName=MIO7_3V3 Pin=R190-1
+Added Pin To Net: NetName=5V Pin=R191-1
+Added Pin To Net: NetName=GND Pin=R192-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR32_1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR32_1 New Net Name=NetR33_1
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR34_1
+Added Pin To Net: NetName=NetD*1_1 Pin=D*1-1
+Added Pin To Net: NetName=NetD*1_1 Pin=R190-2
+Added Pin To Net: NetName=NetD*1_1 Pin=R192-1
+Added Net: Name=NetD*1_1
+Added Pin To Net: NetName=NetD*1_3 Pin=D*1-3
+Added Pin To Net: NetName=NetD*1_3 Pin=FAN1-2
+Added Net: Name=NetD*1_3
+Added Pin To Net: NetName=NetFAN1_1 Pin=FAN1-1
+Added Pin To Net: NetName=NetFAN1_1 Pin=R191-2
+Added Net: Name=NetFAN1_1
+Change Class Name : Old Net Name=OECU_BASE3 New Net Name=OECU_BASE6
+Change Class Name : Old Net Name=OECU_BASE4 New Net Name=OECU_BASE3
+Change Class Name : Old Net Name=OECU_BASE5 New Net Name=OECU_BASE4
+Change Class Name : Old Net Name=OECU_BASE6 New Net Name=OECU_BASE5
+Added Member To Class: ClassName=OECU_BASE1 Member=Component C2 104
+Added Member To Class: ClassName=OECU_BASE1 Member=Component C4 104
+Added Member To Class: ClassName=OECU_BASE1 Member=Component C5 104
+Added Member To Class: ClassName=OECU_BASE1 Member=Component C6 104
+Added Member To Class: ClassName=OECU_BASE1 Member=Component C8 4.7uF
+Added Member To Class: ClassName=OECU_BASE1 Member=Component C9 104
+Added Member To Class: ClassName=OECU_BASE1 Member=Component C11 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C16 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C17 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C18 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C19 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C20 10uF
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C21 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C22 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C23 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C24 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C25 104
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C26 10uF
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C27 10uF
+Added Member To Class: ClassName=OECU_BASE2 Member=Component C28 10uF
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C30 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C31 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C32 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C36 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C37 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C38 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C39 10uF
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C40 10uF
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C42 10uF
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C43 10uF
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C44 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C45 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C47 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C49 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C50 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C51 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C52 104
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C55 10uF
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C56 10uF
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C57 10uF
+Added Member To Class: ClassName=OECU_BASE3 Member=Component C58 10uF
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C59 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C60 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C61 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C62 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C66 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C67 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C68 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C70 10uF
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C72 10uF
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C73 10uF
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C74 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C75 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C77 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C78 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C79 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C83 104
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C84 10uF
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C85 10uF
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C86 10uF
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C87 10uF
+Added Member To Class: ClassName=OECU_BASE4 Member=Component C88 10uF
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C90 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C91 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C92 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C96 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C97 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C98 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C100 10uF
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C102 10uF
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C103 10uF
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C104 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C105 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C107 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C108 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C109 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C113 104
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C114 10uF
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C115 10uF
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C116 10uF
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C117 10uF
+Added Member To Class: ClassName=OECU_BASE5 Member=Component C118 10uF
+Added Member To Class: ClassName=OECU_BASE6 Member=Component C119 104
+Added Member To Class: ClassName=OECU_BASE6 Member=Component C120 10uF
+Added Member To Class: ClassName=OECU_BASE6 Member=Component C121 104
+Added Member To Class: ClassName=OECU_BASE6 Member=Component C122 10uF
+Added Member To Class: ClassName=OECU_BASE6 Member=Component C124 10uF
+Added Member To Class: ClassName=OECU_BASE6 Member=Component C126 10uF
+Added Member To Class: ClassName=OECU_BASE6 Member=Component D*1 SI2302
+Added Member To Class: ClassName=OECU_BASE6 Member=Component FAN1 SH1.25mm_2P
+Added Member To Class: ClassName=OECU_BASE2 Member=Component H1 SCSI20_1
+Added Member To Class: ClassName=OECU_BASE2 Member=Component H2 SCSI20_1
+Added Member To Class: ClassName=OECU_BASE2 Member=Component JTAG1 Header_2.54_4p_2
+Added Member To Class: ClassName=OECU_BASE6 Member=Component OLED1 Header_2.54_7P
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R6 1K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R8 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R9 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R10 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R11 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R12 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R14 5K1
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R15 5K1
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R17 4K7
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R18 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R19 10K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R20 44K2
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R21 200K
+Added Member To Class: ClassName=OECU_BASE1 Member=Component R22 1K
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R23 22R
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R25 22R
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R27 22R
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R28 22R
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R29 1K5
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R30 1K5
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R31 10K
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R32 22R
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R34 4K7
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R36 NC
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R37 4K7
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R38 4K7
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R41 4K7
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R42 4K7
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R43 510R
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R44 510R
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R45 4K7
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R46 4K7
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R47 NC
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R49 NC
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R51 10K
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R53 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R55 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R57 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R58 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R59 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R60 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R62 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R64 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R65 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R66 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R67 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R68 NC
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R70 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R72 NC
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R73 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R74 10K
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R75 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R77 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R79 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R80 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R81 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R82 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R84 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R86 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R87 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R88 22R
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R89 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R90 4K7
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R91 NC
+Added Member To Class: ClassName=OECU_BASE3 Member=Component R92 0R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R94 NC
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R96 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R98 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R99 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R100 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R101 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R102 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R103 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R104 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R105 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R106 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R107 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R108 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R112 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R113 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R114 NC
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R115 0R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R116 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R118 NC
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R119 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R120 10K
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R121 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R125 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R126 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R127 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R128 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R129 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R130 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R131 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R132 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R133 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R134 22R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R135 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R136 4K7
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R137 NC
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R138 0R
+Added Member To Class: ClassName=OECU_BASE4 Member=Component R139 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R143 10K
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R144 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R145 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R146 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R147 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R148 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R149 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R150 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R151 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R153 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R154 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R155 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R156 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R157 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R160 NC
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R161 0R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R162 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R166 10K
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R167 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R168 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R169 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R170 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R171 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R172 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R173 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R174 22R
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R175 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R177 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R179 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R181 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R182 4K7
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R183 NC
+Added Member To Class: ClassName=OECU_BASE5 Member=Component R185 4K7
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R186 510R
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R187 510R
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R188 510R
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R189 510R
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R191 10R
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R193 510R
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R198 510R
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R199 510R
+Added Member To Class: ClassName=OECU_BASE6 Member=Component R200 510R
+Added Member To Class: ClassName=OECU_BASE1 Member=Component U3 EC191120
+Added Member To Class: ClassName=OECU_BASE1 Member=Component U4 TPS27081A
+Added Member To Class: ClassName=OECU_BASE3 Member=Component U7 RTL8211E-VB
+Added Member To Class: ClassName=OECU_BASE4 Member=Component U8 RTL8211E-VB
+Added Member To Class: ClassName=OECU_BASE4 Member=Component U9 RTL8211E-VB

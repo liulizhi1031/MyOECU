@@ -1,0 +1,4 @@
+Added Component: Designator=R31(R_0402)
+Added Pin To Net: NetName=PHYRST0 Pin=R31-1
+Added Pin To Net: NetName=3V3 Pin=R31-2
+Added Member To Class: ClassName=OECU_BASE2 Member=Component R31 10K

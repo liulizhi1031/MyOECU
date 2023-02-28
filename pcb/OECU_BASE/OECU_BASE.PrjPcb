@@ -132,13 +132,13 @@ GenerateClassCluster=0
 DocumentUniqueId=XIVRXWSL
 
 [Document6]
-DocumentPath=OECU_BASE.PcbDoc
+DocumentPath=OECU_BASE6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -146,7 +146,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NSIOATYV
+DocumentUniqueId=NXDWIHJT
 
 [Document7]
 DocumentPath=OECU_BASE.OutJob
@@ -165,29 +165,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for OECU_BASE\Design Rule Check - OECU_BASE.html
+[Document8]
+DocumentPath=OECU_BASE.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for OECU_BASE\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for OECU_BASE\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for OECU_BASE\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for OECU_BASE\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for OECU_BASE\PCB1.RUL
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NSIOATYV
 
 [Configuration1]
 Name=Sources
