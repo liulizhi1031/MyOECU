@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MIO51 Pin=H1-1
+Removed Pin From Net: NetName=MIO48 Pin=H1-11
+Added Pin To Net: NetName=MIO48 Pin=H1-1
+Added Pin To Net: NetName=MIO51 Pin=H1-11

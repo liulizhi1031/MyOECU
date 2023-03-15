@@ -182,6 +182,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSIOATYV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for OECU_BASE\Design Rule Check - OECU_BASE.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
