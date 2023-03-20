@@ -1,389 +1,34 @@
 Protel Design System Design Rule Check
 PCB File : E:\1.My_Tech_Studio\1.Project\MyOECU\pcb\OECU_BASE\OECU_BASE.PcbDoc
-Date     : 2023/3/16
-Time     : 0:32:30
-
-ERROR : More than 500 violations detected, DRC was stopped
+Date     : 2023/3/19
+Time     : 18:42:17
 
 Processing Rule : Clearance Constraint (Gap=0.1016mm) (All),((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (40.81984mm,63.1967mm)(48.78814mm,71.165mm) on SIG1 And Track (48.451mm,71.565mm)(49.5116mm,71.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (41.01427mm,62.72731mm)(49.05196mm,70.765mm) on SIG1 And Track (48.78814mm,71.165mm)(49.5116mm,71.165mm) on SIG1 
-   Violation between Clearance Constraint: (0.29255mm < 0.31293mm) Between Track (43.51362mm,88.3158mm)(48.2346mm,88.3158mm) on SIG1 And Track (48.3616mm,87.8078mm)(50.0956mm,89.5418mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (45.0823mm,93.866mm)(48.4956mm,93.866mm) on SIG1 And Track (45.4914mm,92.5322mm)(46.4252mm,93.466mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (45.0823mm,93.866mm)(48.4956mm,93.866mm) on SIG1 And Track (45.5168mm,95.25mm)(46.5008mm,94.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (45.0823mm,93.866mm)(48.4956mm,93.866mm) on SIG1 And Track (46.4252mm,93.466mm)(48.4956mm,93.466mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (45.0823mm,93.866mm)(48.4956mm,93.866mm) on SIG1 And Track (46.5008mm,94.266mm)(48.4956mm,94.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.25255mm < 0.31293mm) Between Track (45.3136mm,91.186mm)(47.1936mm,93.066mm) on SIG1 And Track (46.4252mm,93.466mm)(48.4956mm,93.466mm) on SIG1 
-   Violation between Clearance Constraint: (0.25183mm < 0.31293mm) Between Track (45.4914mm,97.9678mm)(47.98491mm,95.47429mm) on SIG1 And Track (47.4534mm,95.066mm)(48.4956mm,95.066mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (45.72mm,89.8652mm)(47.7208mm,91.866mm) on SIG1 And Track (47.2318mm,92.266mm)(48.4956mm,92.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.25255mm < 0.31293mm) Between Track (45.8343mm,95.8215mm)(46.9898mm,94.666mm) on SIG1 And Track (46.5008mm,94.266mm)(48.4956mm,94.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (45.8978mm,96.6216mm)(47.4534mm,95.066mm) on SIG1 And Track (46.9898mm,94.666mm)(48.4956mm,94.666mm) on SIG1 
-   Violation between Clearance Constraint: (0.2653mm < 0.31293mm) Between Track (45.9232mm,89.3318mm)(48.03563mm,91.44423mm) on SIG1 And Track (47.7208mm,91.866mm)(48.4956mm,91.866mm) on SIG1 
-   Violation between Clearance Constraint: (0.25314mm < 0.31293mm) Between Track (46.34647mm,50.4952mm)(49.5116mm,50.4952mm) on SIG1 And Track (46.7614mm,49.1744mm)(47.6726mm,50.0856mm) on SIG1 
-   Violation between Clearance Constraint: (0.23393mm < 0.31293mm) Between Track (46.34647mm,50.4952mm)(49.5116mm,50.4952mm) on SIG1 And Track (47.23079mm,51.8414mm)(48.18659mm,50.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.25314mm < 0.31293mm) Between Track (46.34647mm,50.4952mm)(49.5116mm,50.4952mm) on SIG1 And Track (47.6726mm,50.0856mm)(49.5116mm,50.0856mm) on SIG1 
-   Violation between Clearance Constraint: (0.23393mm < 0.31293mm) Between Track (46.34647mm,50.4952mm)(49.5116mm,50.4952mm) on SIG1 And Track (48.18659mm,50.8856mm)(49.5116mm,50.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.25653mm < 0.31293mm) Between Track (46.40388mm,73.152mm)(49.5116mm,73.152mm) on SIG1 And Track (46.8884mm,74.5236mm)(47.847mm,73.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.23054mm < 0.31293mm) Between Track (46.40388mm,73.152mm)(49.5116mm,73.152mm) on SIG1 And Track (46.93436mm,71.80096mm)(47.8984mm,72.765mm) on SIG1 
-   Violation between Clearance Constraint: (0.25653mm < 0.31293mm) Between Track (46.40388mm,73.152mm)(49.5116mm,73.152mm) on SIG1 And Track (47.847mm,73.565mm)(49.5116mm,73.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.23054mm < 0.31293mm) Between Track (46.40388mm,73.152mm)(49.5116mm,73.152mm) on SIG1 And Track (47.8984mm,72.765mm)(49.5116mm,72.765mm) on SIG1 
-   Violation between Clearance Constraint: (0.25255mm < 0.31293mm) Between Track (46.4252mm,93.466mm)(48.4956mm,93.466mm) on SIG1 And Track (47.1936mm,93.066mm)(48.4956mm,93.066mm) on SIG1 
-   Violation between Clearance Constraint: (0.25255mm < 0.31293mm) Between Track (46.5008mm,94.266mm)(48.4956mm,94.266mm) on SIG1 And Track (46.9898mm,94.666mm)(48.4956mm,94.666mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (46.5241mm,54.5338mm)(48.9723mm,52.0856mm) on SIG1 And Track (48.70848mm,51.6856mm)(49.5116mm,51.6856mm) on SIG1 
-   Violation between Clearance Constraint: (0.2484mm < 0.31293mm) Between Track (46.57675mm,77.1906mm)(48.99749mm,74.76987mm) on SIG1 And Track (48.73853mm,74.365mm)(49.5116mm,74.365mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (46.609mm,47.8536mm)(48.441mm,49.6856mm) on SIG1 And Track (47.6726mm,50.0856mm)(49.5116mm,50.0856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (46.6344mm,70.4596mm)(48.5398mm,72.365mm) on SIG1 And Track (47.8984mm,72.765mm)(49.5116mm,72.765mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (46.736mm,46.5074mm)(48.7142mm,48.4856mm) on SIG1 And Track (48.3522mm,48.8856mm)(49.5116mm,48.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (46.97781mm,46.03801mm)(49.0254mm,48.0856mm) on SIG1 And Track (48.7142mm,48.4856mm)(49.5116mm,48.4856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (46.9898mm,94.666mm)(48.4956mm,94.666mm) on SIG1 And Track (47.4534mm,95.066mm)(48.4956mm,95.066mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (47.0916mm,75.1586mm)(48.2852mm,73.965mm) on SIG1 And Track (47.847mm,73.565mm)(49.5116mm,73.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (47.23134mm,52.5018mm)(48.44754mm,51.2856mm) on SIG1 And Track (48.18659mm,50.8856mm)(49.5116mm,50.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (47.23188mm,53.1622mm)(48.70848mm,51.6856mm) on SIG1 And Track (48.44754mm,51.2856mm)(49.5116mm,51.2856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (47.2318mm,92.266mm)(48.4956mm,92.266mm) on SIG1 And Track (47.7208mm,91.866mm)(48.4956mm,91.866mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (47.28453mm,75.819mm)(48.73853mm,74.365mm) on SIG1 And Track (48.2852mm,73.965mm)(49.5116mm,73.965mm) on SIG1 
-   Violation between Clearance Constraint: (0.25183mm < 0.31293mm) Between Track (47.4534mm,95.066mm)(48.4956mm,95.066mm) on SIG1 And Track (47.98491mm,95.47429mm)(48.48731mm,95.47429mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (47.4534mm,95.066mm)(48.4956mm,95.066mm) on SIG1 And Track (48.48731mm,95.47429mm)(48.4956mm,95.466mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (47.6726mm,50.0856mm)(49.5116mm,50.0856mm) on SIG1 And Track (48.441mm,49.6856mm)(49.5116mm,49.6856mm) on SIG1 
-   Violation between Clearance Constraint: (0.2653mm < 0.31293mm) Between Track (47.7208mm,91.866mm)(48.4956mm,91.866mm) on SIG1 And Track (48.03563mm,91.44423mm)(48.47383mm,91.44423mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (47.7208mm,91.866mm)(48.4956mm,91.866mm) on SIG1 And Track (48.47383mm,91.44423mm)(48.4956mm,91.466mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (47.847mm,73.565mm)(49.5116mm,73.565mm) on SIG1 And Track (48.2852mm,73.965mm)(49.5116mm,73.965mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (47.8984mm,72.765mm)(49.5116mm,72.765mm) on SIG1 And Track (48.5398mm,72.365mm)(49.5116mm,72.365mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (48.03563mm,91.44423mm)(48.47383mm,91.44423mm) on SIG1 And Track (48.43036mm,90.82296mm)(48.43036mm,91.04423mm) on SIG1 
-   Violation between Clearance Constraint: (0.22177mm < 0.31293mm) Between Track (48.03563mm,91.44423mm)(48.47383mm,91.44423mm) on SIG1 And Track (48.43036mm,91.04423mm)(48.45213mm,91.066mm) on SIG1 
-   Violation between Clearance Constraint: (0.22177mm < 0.31293mm) Between Track (48.03563mm,91.44423mm)(48.47383mm,91.44423mm) on SIG1 And Track (48.45213mm,91.066mm)(48.4956mm,91.066mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (48.18659mm,50.8856mm)(49.5116mm,50.8856mm) on SIG1 And Track (48.44754mm,51.2856mm)(49.5116mm,51.2856mm) on SIG1 
-   Violation between Clearance Constraint: (0.29255mm < 0.31293mm) Between Track (48.2346mm,88.3158mm)(49.68071mm,89.76191mm) on SIG1 And Track (48.3616mm,87.8078mm)(50.0956mm,89.5418mm) on SIG1 
-   Violation between Clearance Constraint: (0.25843mm < 0.31293mm) Between Track (48.2346mm,88.3158mm)(49.68071mm,89.76191mm) on SIG1 And Track (50.0956mm,89.5418mm)(50.0956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (48.2852mm,73.965mm)(49.5116mm,73.965mm) on SIG1 And Track (48.73853mm,74.365mm)(49.5116mm,74.365mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (48.3522mm,48.8856mm)(49.5116mm,48.8856mm) on SIG1 And Track (48.7142mm,48.4856mm)(49.5116mm,48.4856mm) on SIG1 
-   Violation between Clearance Constraint: (0.29255mm < 0.31293mm) Between Track (48.3616mm,87.8078mm)(50.0956mm,89.5418mm) on SIG1 And Track (49.68071mm,89.76191mm)(49.68071mm,90.25111mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (48.3616mm,87.8078mm)(50.0956mm,89.5418mm) on SIG1 And Track (50.4956mm,89.1036mm)(50.4956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24589mm < 0.31293mm) Between Track (48.43036mm,90.82296mm)(48.43036mm,91.04423mm) on SIG1 And Track (48.47383mm,91.44423mm)(48.4956mm,91.466mm) on SIG1 
-   Violation between Clearance Constraint: (0.22239mm < 0.31293mm) Between Track (48.43036mm,91.04423mm)(48.45213mm,91.066mm) on SIG1 And Track (48.47383mm,91.44423mm)(48.4956mm,91.466mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (48.44754mm,51.2856mm)(49.5116mm,51.2856mm) on SIG1 And Track (48.70848mm,51.6856mm)(49.5116mm,51.6856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (48.451mm,71.565mm)(49.5116mm,71.565mm) on SIG1 And Track (48.78814mm,71.165mm)(49.5116mm,71.165mm) on SIG1 
-   Violation between Clearance Constraint: (0.22177mm < 0.31293mm) Between Track (48.45213mm,91.066mm)(48.4956mm,91.066mm) on SIG1 And Track (48.47383mm,91.44423mm)(48.4956mm,91.466mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (48.70848mm,51.6856mm)(49.5116mm,51.6856mm) on SIG1 And Track (48.9723mm,52.0856mm)(49.5116mm,52.0856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (48.7142mm,48.4856mm)(49.5116mm,48.4856mm) on SIG1 And Track (49.0254mm,48.0856mm)(49.5116mm,48.0856mm) on SIG1 
-   Violation between Clearance Constraint: (0.2484mm < 0.31293mm) Between Track (48.73853mm,74.365mm)(49.5116mm,74.365mm) on SIG1 And Track (48.99749mm,74.76987mm)(49.50673mm,74.76987mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (48.73853mm,74.365mm)(49.5116mm,74.365mm) on SIG1 And Track (49.50673mm,74.76987mm)(49.5116mm,74.765mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (48.78814mm,71.165mm)(49.5116mm,71.165mm) on SIG1 And Track (49.05196mm,70.765mm)(49.5116mm,70.765mm) on SIG1 
-   Violation between Clearance Constraint: (0.22893mm < 0.31293mm) Between Track (48.864mm,90.266mm)(49.2956mm,90.266mm) on SIG1 And Track (49.68071mm,89.76191mm)(49.68071mm,90.25111mm) on SIG1 
-   Violation between Clearance Constraint: (0.22893mm < 0.31293mm) Between Track (48.864mm,90.266mm)(49.2956mm,90.266mm) on SIG1 And Track (49.68071mm,90.25111mm)(49.6956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (49.0254mm,48.0856mm)(49.5116mm,48.0856mm) on SIG1 And Track (49.5116mm,47.4034mm)(49.5116mm,47.6856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (49.05196mm,70.765mm)(49.5116mm,70.765mm) on SIG1 And Track (49.5046mm,70.0278mm)(49.5046mm,70.365mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (49.4538mm,45.0596mm)(50.7116mm,46.3174mm) on SIG1 And Track (51.1116mm,46.05358mm)(51.1116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (49.64823mm,44.59021mm)(51.1116mm,46.05358mm) on SIG1 And Track (51.5116mm,45.7458mm)(51.5116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (49.65762mm,46.8856mm)(50.3116mm,46.8856mm) on SIG1 And Track (50.7116mm,46.3174mm)(50.7116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.25843mm < 0.31293mm) Between Track (49.68071mm,89.76191mm)(49.68071mm,90.25111mm) on SIG1 And Track (50.0956mm,89.5418mm)(50.0956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (49.68071mm,90.25111mm)(49.6956mm,90.266mm) on SIG1 And Track (50.0956mm,89.5418mm)(50.0956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (49.70562mm,69.565mm)(50.3116mm,69.565mm) on SIG1 And Track (50.7116mm,69.0504mm)(50.7116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.25827mm < 0.31293mm) Between Track (49.7165mm,87.3505mm)(50.8956mm,88.5296mm) on SIG1 And Track (51.2956mm,88.278mm)(51.2956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (49.8602mm,68.199mm)(50.7116mm,69.0504mm) on SIG1 And Track (51.1116mm,68.78658mm)(51.1116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (50.05463mm,67.72961mm)(51.1116mm,68.78658mm) on SIG1 And Track (51.5116mm,68.4534mm)(51.5116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (50.0956mm,89.5418mm)(50.0956mm,90.266mm) on SIG1 And Track (50.4956mm,89.1036mm)(50.4956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (50.46296mm,43.97797mm)(51.9116mm,45.4266mm) on SIG1 And Track (52.3116mm,45.1488mm)(52.3116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (50.48916mm,66.66817mm)(51.9116mm,68.09061mm) on SIG1 And Track (52.3116mm,67.82679mm)(52.3116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (50.5968mm,87.5792mm)(51.2956mm,88.278mm) on SIG1 And Track (51.6956mm,87.082mm)(51.6956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (50.7116mm,46.3174mm)(50.7116mm,46.8856mm) on SIG1 And Track (51.1116mm,46.05358mm)(51.1116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (50.7116mm,69.0504mm)(50.7116mm,69.565mm) on SIG1 And Track (51.1116mm,68.78658mm)(51.1116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.25827mm < 0.31293mm) Between Track (50.8956mm,88.5296mm)(50.8956mm,90.266mm) on SIG1 And Track (51.2956mm,88.278mm)(51.2956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (51.1116mm,46.05358mm)(51.1116mm,46.8856mm) on SIG1 And Track (51.5116mm,45.7458mm)(51.5116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (51.1116mm,68.78658mm)(51.1116mm,69.565mm) on SIG1 And Track (51.5116mm,68.4534mm)(51.5116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (51.2956mm,88.278mm)(51.2956mm,90.266mm) on SIG1 And Track (51.6956mm,87.082mm)(51.6956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (51.4604mm,44.2976mm)(52.3116mm,45.1488mm) on SIG1 And Track (52.7116mm,43.8324mm)(52.7116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (51.5112mm,67.02639mm)(52.3116mm,67.82679mm) on SIG1 And Track (52.7116mm,66.3776mm)(52.7116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (51.6956mm,87.082mm)(51.6956mm,90.266mm) on SIG1 And Track (52.0956mm,88.3156mm)(52.0956mm,90.266mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (51.6956mm,87.082mm)(51.6956mm,90.266mm) on SIG1 And Track (52.0956mm,88.3156mm)(52.7304mm,87.6808mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (51.9116mm,45.4266mm)(51.9116mm,46.8856mm) on SIG1 And Track (52.3116mm,45.1488mm)(52.3116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (51.9116mm,68.09061mm)(51.9116mm,69.565mm) on SIG1 And Track (52.3116mm,67.82679mm)(52.3116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (52.3116mm,45.1488mm)(52.3116mm,46.8856mm) on SIG1 And Track (52.7116mm,43.8324mm)(52.7116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (52.3116mm,67.82679mm)(52.3116mm,69.565mm) on SIG1 And Track (52.7116mm,66.3776mm)(52.7116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (52.7116mm,43.8324mm)(52.7116mm,46.8856mm) on SIG1 And Track (53.1116mm,45.1356mm)(53.1116mm,46.8856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (52.7116mm,43.8324mm)(52.7116mm,46.8856mm) on SIG1 And Track (53.1116mm,45.1356mm)(53.7464mm,44.5008mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (52.7116mm,66.3776mm)(52.7116mm,69.565mm) on SIG1 And Track (53.1116mm,67.6654mm)(53.1116mm,69.565mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (52.7116mm,66.3776mm)(52.7116mm,69.565mm) on SIG1 And Track (53.1116mm,67.6654mm)(53.848mm,66.929mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.10329mm,86.6016mm)(69.3236mm,86.6016mm) on SIG1 And Track (66.4464mm,88.0618mm)(67.5066mm,87.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.10329mm,86.6016mm)(69.3236mm,86.6016mm) on SIG1 And Track (66.5734mm,85.2678mm)(67.5072mm,86.2016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.10329mm,86.6016mm)(69.3236mm,86.6016mm) on SIG1 And Track (67.5066mm,87.0016mm)(69.3236mm,87.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.10329mm,86.6016mm)(69.3236mm,86.6016mm) on SIG1 And Track (67.5072mm,86.2016mm)(69.3236mm,86.2016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.11429mm,66.18mm)(69.3236mm,66.18mm) on SIG1 And Track (66.6496mm,64.8716mm)(67.558mm,65.78mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.11429mm,66.18mm)(69.3236mm,66.18mm) on SIG1 And Track (66.675mm,67.5386mm)(67.6336mm,66.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.11429mm,66.18mm)(69.3236mm,66.18mm) on SIG1 And Track (67.558mm,65.78mm)(69.3236mm,65.78mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.11429mm,66.18mm)(69.3236mm,66.18mm) on SIG1 And Track (67.6336mm,66.58mm)(69.3236mm,66.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.2686mm,83.8708mm)(68.1994mm,85.8016mm) on SIG1 And Track (67.5072mm,86.2016mm)(69.3236mm,86.2016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.294mm,43.5864mm)(68.0406mm,45.333mm) on SIG1 And Track (67.12994mm,45.733mm)(69.3236mm,45.733mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.294mm,70.2818mm)(68.7958mm,67.78mm) on SIG1 And Track (68.53198mm,67.38mm)(69.3236mm,67.38mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (66.29603mm,82.37423mm)(68.5234mm,84.6016mm) on SIG1 And Track (68.1106mm,85.0016mm)(69.3236mm,85.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.3194mm,63.5508mm)(68.1486mm,65.38mm) on SIG1 And Track (67.558mm,65.78mm)(69.3236mm,65.78mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.3956mm,90.8812mm)(69.0752mm,88.2016mm) on SIG1 And Track (68.4338mm,87.8016mm)(69.3236mm,87.8016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (66.57395mm,62.2808mm)(68.47314mm,64.18mm) on SIG1 And Track (68.0598mm,64.58mm)(69.3236mm,64.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.70436mm,61.7474mm)(68.73696mm,63.78mm) on SIG1 And Track (68.47314mm,64.18mm)(69.3236mm,64.18mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (66.7512mm,89.4842mm)(68.4338mm,87.8016mm) on SIG1 And Track (67.9448mm,87.4016mm)(69.3236mm,87.4016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (66.8147mm,88.5317mm)(67.9448mm,87.4016mm) on SIG1 And Track (67.5066mm,87.0016mm)(69.3236mm,87.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (66.8274mm,68.2244mm)(68.0718mm,66.98mm) on SIG1 And Track (67.6336mm,66.58mm)(69.3236mm,66.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.27662mm < 0.31293mm) Between Track (66.8528mm,28.8544mm)(68.9864mm,26.7208mm) on SIG1 And Track (68.93587mm,27.38093mm)(68.93614mm,27.3812mm) on SIG1 
-   Violation between Clearance Constraint: (0.277mm < 0.31293mm) Between Track (66.8528mm,28.8544mm)(68.9864mm,26.7208mm) on SIG1 And Track (68.93614mm,27.3812mm)(69.6548mm,27.3812mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (66.8528mm,43.3324mm)(68.4534mm,44.933mm) on SIG1 And Track (68.1676mm,45.333mm)(69.3236mm,45.333mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.00178mm,68.9102mm)(68.53198mm,67.38mm) on SIG1 And Track (68.0718mm,66.98mm)(69.3236mm,66.98mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (67.0306mm,82.3976mm)(68.8346mm,84.2016mm) on SIG1 And Track (68.5234mm,84.6016mm)(69.3236mm,84.6016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (67.12994mm,45.733mm)(69.3236mm,45.733mm) on SIG1 And Track (67.31mm,46.2788mm)(67.4558mm,46.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (67.12994mm,45.733mm)(69.3236mm,45.733mm) on SIG1 And Track (67.4558mm,46.133mm)(69.3236mm,46.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (67.12994mm,45.733mm)(69.3236mm,45.733mm) on SIG1 And Track (68.0406mm,45.333mm)(68.1676mm,45.333mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (67.12994mm,45.733mm)(69.3236mm,45.733mm) on SIG1 And Track (68.1676mm,45.333mm)(69.3236mm,45.333mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (67.1322mm,48.9458mm)(68.745mm,47.333mm) on SIG1 And Track (68.48118mm,46.933mm)(69.3236mm,46.933mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.4558mm,46.133mm)(69.3236mm,46.133mm) on SIG1 And Track (67.4624mm,46.9392mm)(67.8686mm,46.533mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.4558mm,46.133mm)(69.3236mm,46.133mm) on SIG1 And Track (67.8686mm,46.533mm)(69.3236mm,46.533mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.5066mm,87.0016mm)(69.3236mm,87.0016mm) on SIG1 And Track (67.9448mm,87.4016mm)(69.3236mm,87.4016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (67.5072mm,86.2016mm)(69.3236mm,86.2016mm) on SIG1 And Track (68.1994mm,85.8016mm)(69.3236mm,85.8016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (67.558mm,65.78mm)(69.3236mm,65.78mm) on SIG1 And Track (68.1486mm,65.38mm)(69.3236mm,65.38mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.5894mm,47.5996mm)(68.256mm,46.933mm) on SIG1 And Track (67.8686mm,46.533mm)(69.3236mm,46.533mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.6336mm,66.58mm)(69.3236mm,66.58mm) on SIG1 And Track (68.0718mm,66.98mm)(69.3236mm,66.98mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.8686mm,46.533mm)(69.3236mm,46.533mm) on SIG1 And Track (68.256mm,46.933mm)(68.48118mm,46.933mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.8686mm,46.533mm)(69.3236mm,46.533mm) on SIG1 And Track (68.48118mm,46.933mm)(69.3236mm,46.933mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.9448mm,87.4016mm)(69.3236mm,87.4016mm) on SIG1 And Track (68.4338mm,87.8016mm)(69.3236mm,87.8016mm) on SIG1 
-   Violation between Clearance Constraint: (0.23867mm < 0.31293mm) Between Track (67.98056mm,42.93616mm)(68.7774mm,43.733mm) on SIG1 And Track (68.44995mm,42.08475mm)(68.44995mm,42.84675mm) on SIG1 
-   Violation between Clearance Constraint: (0.23867mm < 0.31293mm) Between Track (67.98056mm,42.93616mm)(68.7774mm,43.733mm) on SIG1 And Track (68.44995mm,42.84675mm)(68.9362mm,43.333mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (67.98056mm,42.93616mm)(68.7774mm,43.733mm) on SIG1 And Track (68.49215mm,44.133mm)(69.3236mm,44.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.23867mm < 0.31293mm) Between Track (67.98056mm,42.93616mm)(68.7774mm,43.733mm) on SIG1 And Track (68.9362mm,43.333mm)(69.3236mm,43.333mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (68.0598mm,64.58mm)(69.3236mm,64.58mm) on SIG1 And Track (68.47314mm,64.18mm)(69.3236mm,64.18mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (68.0718mm,66.98mm)(69.3236mm,66.98mm) on SIG1 And Track (68.53198mm,67.38mm)(69.3236mm,67.38mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (68.1106mm,85.0016mm)(69.3236mm,85.0016mm) on SIG1 And Track (68.5234mm,84.6016mm)(69.3236mm,84.6016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.1676mm,45.333mm)(69.3236mm,45.333mm) on SIG1 And Track (68.4534mm,44.933mm)(68.6312mm,44.933mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.1676mm,45.333mm)(69.3236mm,45.333mm) on SIG1 And Track (68.6312mm,44.933mm)(69.3236mm,44.933mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.4338mm,87.8016mm)(69.3236mm,87.8016mm) on SIG1 And Track (69.0752mm,88.2016mm)(69.3236mm,88.2016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.44995mm,42.84675mm)(68.9362mm,43.333mm) on SIG1 And Track (68.7774mm,43.733mm)(69.3236mm,43.733mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.47314mm,64.18mm)(69.3236mm,64.18mm) on SIG1 And Track (68.73696mm,63.78mm)(69.3236mm,63.78mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.48118mm,46.933mm)(69.3236mm,46.933mm) on SIG1 And Track (68.745mm,47.333mm)(69.3236mm,47.333mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (68.49215mm,44.133mm)(69.3236mm,44.133mm) on SIG1 And Track (68.7774mm,43.733mm)(69.3236mm,43.733mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.5234mm,84.6016mm)(69.3236mm,84.6016mm) on SIG1 And Track (68.8346mm,84.2016mm)(69.3236mm,84.2016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.53198mm,67.38mm)(69.3236mm,67.38mm) on SIG1 And Track (68.7958mm,67.78mm)(69.3236mm,67.78mm) on SIG1 
-   Violation between Clearance Constraint: (0.29553mm < 0.31293mm) Between Track (68.73696mm,63.78mm)(69.3236mm,63.78mm) on SIG1 And Track (69.2404mm,63.26658mm)(69.30183mm,63.32801mm) on SIG1 
-   Violation between Clearance Constraint: (0.2653mm < 0.31293mm) Between Track (68.73696mm,63.78mm)(69.3236mm,63.78mm) on SIG1 And Track (69.30183mm,63.32801mm)(69.30183mm,63.35823mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.73696mm,63.78mm)(69.3236mm,63.78mm) on SIG1 And Track (69.30183mm,63.35823mm)(69.3236mm,63.38mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.7774mm,43.733mm)(69.3236mm,43.733mm) on SIG1 And Track (68.9362mm,43.333mm)(69.3236mm,43.333mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.8346mm,84.2016mm)(69.3236mm,84.2016mm) on SIG1 And Track (69.3236mm,83.5222mm)(69.3236mm,83.8016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (68.9362mm,43.333mm)(69.3236mm,43.333mm) on SIG1 And Track (69.3236mm,42.425mm)(69.3236mm,42.933mm) on SIG1 
-   Violation between Clearance Constraint: (0.23033mm < 0.31293mm) Between Track (69.3618mm,62.58mm)(70.1236mm,62.58mm) on SIG1 And Track (70.5104mm,61.849mm)(70.5104mm,62.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (69.49745mm,81.43545mm)(70.5236mm,82.4616mm) on SIG1 And Track (70.9236mm,82.19778mm)(70.9236mm,83.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (69.565mm,83.0016mm)(70.1236mm,83.0016mm) on SIG1 And Track (70.5236mm,82.4616mm)(70.5236mm,83.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24517mm < 0.31293mm) Between Track (69.62482mm,80.899mm)(70.9236mm,82.19778mm) on SIG1 And Track (71.3232mm,81.7626mm)(71.3232mm,83.0326mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (69.8444mm,42.133mm)(70.1236mm,42.133mm) on SIG1 And Track (70.5236mm,41.5676mm)(70.5236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.25674mm < 0.31293mm) Between Track (69.9008mm,61.2394mm)(70.5104mm,61.849mm) on SIG1 And Track (70.9236mm,61.59838mm)(70.9236mm,62.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (69.9516mm,40.9956mm)(70.5236mm,41.5676mm) on SIG1 And Track (70.9236mm,41.30378mm)(70.9236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.24517mm < 0.31293mm) Between Track (70.09523mm,60.77001mm)(70.9236mm,61.59838mm) on SIG1 And Track (71.3232mm,61.214mm)(71.3232mm,62.5856mm) on SIG1 
-   Violation between Clearance Constraint: (0.25827mm < 0.31293mm) Between Track (70.104mm,59.4272mm)(71.7236mm,61.0468mm) on SIG1 And Track (72.1236mm,60.6682mm)(72.1236mm,62.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (70.14603mm,40.52621mm)(70.9236mm,41.30378mm) on SIG1 And Track (71.3236mm,40.9706mm)(71.3236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.25674mm < 0.31293mm) Between Track (70.5104mm,61.849mm)(70.5104mm,62.58mm) on SIG1 And Track (70.9236mm,61.59838mm)(70.9236mm,62.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (70.5236mm,41.5676mm)(70.5236mm,42.133mm) on SIG1 And Track (70.9236mm,41.30378mm)(70.9236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (70.5236mm,82.4616mm)(70.5236mm,83.0016mm) on SIG1 And Track (70.9236mm,82.19778mm)(70.9236mm,83.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (70.63835mm,39.23515mm)(71.7236mm,40.3204mm) on SIG1 And Track (72.1236mm,39.9672mm)(72.1236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.25594mm < 0.31293mm) Between Track (70.66367mm,28.0162mm)(74.3528mm,28.0162mm) on SIG1 And Track (71.0946mm,26.7208mm)(71.9776mm,27.6038mm) on SIG1 
-   Violation between Clearance Constraint: (0.25594mm < 0.31293mm) Between Track (70.66367mm,28.0162mm)(74.3528mm,28.0162mm) on SIG1 And Track (71.9776mm,27.6038mm)(74.3528mm,27.6038mm) on SIG1 
-   Violation between Clearance Constraint: (0.23113mm < 0.31293mm) Between Track (70.66367mm,28.0162mm)(74.3528mm,28.0162mm) on SIG1 And Track (72.009mm,29.337mm)(72.9422mm,28.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.23113mm < 0.31293mm) Between Track (70.66367mm,28.0162mm)(74.3528mm,28.0162mm) on SIG1 And Track (72.9422mm,28.4038mm)(74.3528mm,28.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (70.8914mm,80.5434mm)(71.7236mm,81.3756mm) on SIG1 And Track (72.1236mm,81.12166mm)(72.1236mm,83.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (70.9236mm,41.30378mm)(70.9236mm,42.133mm) on SIG1 And Track (71.3236mm,40.9706mm)(71.3236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.24517mm < 0.31293mm) Between Track (70.9236mm,61.59838mm)(70.9236mm,62.58mm) on SIG1 And Track (71.3232mm,61.214mm)(71.3232mm,62.5856mm) on SIG1 
-   Violation between Clearance Constraint: (0.24517mm < 0.31293mm) Between Track (70.9236mm,82.19778mm)(70.9236mm,83.0016mm) on SIG1 And Track (71.3232mm,81.7626mm)(71.3232mm,83.0326mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (70.9676mm,25.4mm)(72.7714mm,27.2038mm) on SIG1 And Track (71.9776mm,27.6038mm)(74.3528mm,27.6038mm) on SIG1 
-   Violation between Clearance Constraint: (0.23693mm < 0.31293mm) Between Track (71.2216mm,80.21966mm)(72.1236mm,81.12166mm) on SIG1 And Track (72.517mm,79.706mm)(72.517mm,82.995mm) on SIG1 
-   Violation between Clearance Constraint: (0.23694mm < 0.31293mm) Between Track (71.3232mm,59.8678mm)(72.1236mm,60.6682mm) on SIG1 And Track (72.517mm,59.3772mm)(72.517mm,62.5734mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (71.4248mm,24.0284mm)(73.4002mm,26.0038mm) on SIG1 And Track (72.8858mm,26.4038mm)(74.3528mm,26.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (71.58062mm,23.5204mm)(73.66402mm,25.6038mm) on SIG1 And Track (73.4002mm,26.0038mm)(74.3528mm,26.0038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24358mm < 0.31293mm) Between Track (71.7042mm,39.5478mm)(72.1236mm,39.9672mm) on SIG1 And Track (72.5236mm,39.973mm)(72.5236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.24358mm < 0.31293mm) Between Track (71.7042mm,39.5478mm)(72.1236mm,39.9672mm) on SIG1 And Track (72.5236mm,39.973mm)(72.9234mm,39.5732mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (71.7236mm,40.3204mm)(71.7236mm,42.133mm) on SIG1 And Track (72.1236mm,39.9672mm)(72.1236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.25827mm < 0.31293mm) Between Track (71.7236mm,61.0468mm)(71.7236mm,62.58mm) on SIG1 And Track (72.1236mm,60.6682mm)(72.1236mm,62.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (71.7236mm,81.3756mm)(71.7236mm,83.0016mm) on SIG1 And Track (72.1236mm,81.12166mm)(72.1236mm,83.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (71.9776mm,27.6038mm)(74.3528mm,27.6038mm) on SIG1 And Track (72.7714mm,27.2038mm)(74.3528mm,27.2038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (72.0852mm,29.9974mm)(73.2788mm,28.8038mm) on SIG1 And Track (72.9422mm,28.4038mm)(74.3528mm,28.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (72.1236mm,39.9672mm)(72.1236mm,42.133mm) on SIG1 And Track (72.5236mm,39.973mm)(72.5236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (72.1236mm,39.9672mm)(72.1236mm,42.133mm) on SIG1 And Track (72.5236mm,39.973mm)(72.9234mm,39.5732mm) on SIG1 
-   Violation between Clearance Constraint: (0.23694mm < 0.31293mm) Between Track (72.1236mm,60.6682mm)(72.1236mm,62.58mm) on SIG1 And Track (72.517mm,59.3772mm)(72.517mm,62.5734mm) on SIG1 
-   Violation between Clearance Constraint: (0.23694mm < 0.31293mm) Between Track (72.1236mm,60.6682mm)(72.1236mm,62.58mm) on SIG1 And Track (72.517mm,62.5734mm)(72.5236mm,62.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.23693mm < 0.31293mm) Between Track (72.1236mm,81.12166mm)(72.1236mm,83.0016mm) on SIG1 And Track (72.517mm,79.706mm)(72.517mm,82.995mm) on SIG1 
-   Violation between Clearance Constraint: (0.23693mm < 0.31293mm) Between Track (72.1236mm,81.12166mm)(72.1236mm,83.0016mm) on SIG1 And Track (72.517mm,82.995mm)(72.5236mm,83.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (72.1614mm,30.6578mm)(73.6154mm,29.2038mm) on SIG1 And Track (73.2788mm,28.8038mm)(74.3528mm,28.8038mm) on SIG1 
-   Violation between Clearance Constraint: (0.25013mm < 0.31293mm) Between Track (72.517mm,59.3772mm)(72.517mm,62.5734mm) on SIG1 And Track (72.9236mm,60.6296mm)(72.9236mm,62.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.25013mm < 0.31293mm) Between Track (72.517mm,59.3772mm)(72.517mm,62.5734mm) on SIG1 And Track (72.9236mm,60.6296mm)(73.6092mm,59.944mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (72.517mm,62.5734mm)(72.5236mm,62.58mm) on SIG1 And Track (72.9236mm,60.6296mm)(72.9236mm,62.58mm) on SIG1 
-   Violation between Clearance Constraint: (0.25217mm < 0.31293mm) Between Track (72.517mm,79.706mm)(72.517mm,82.995mm) on SIG1 And Track (72.9236mm,80.8988mm)(72.9236mm,83.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.25217mm < 0.31293mm) Between Track (72.517mm,79.706mm)(72.517mm,82.995mm) on SIG1 And Track (72.9236mm,80.8988mm)(73.6092mm,80.2132mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (72.517mm,82.995mm)(72.5236mm,83.0016mm) on SIG1 And Track (72.9236mm,80.8988mm)(72.9236mm,83.0016mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (72.5236mm,39.973mm)(72.5236mm,42.133mm) on SIG1 And Track (72.9236mm,40.6144mm)(72.9236mm,42.133mm) on SIG1 
-   Violation between Clearance Constraint: (0.25052mm < 0.31293mm) Between Track (72.5236mm,39.973mm)(72.5236mm,42.133mm) on SIG1 And Track (72.9236mm,40.6144mm)(74.0156mm,39.5224mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (72.8858mm,26.4038mm)(74.3528mm,26.4038mm) on SIG1 And Track (73.4002mm,26.0038mm)(74.3528mm,26.0038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (72.9422mm,28.4038mm)(74.3528mm,28.4038mm) on SIG1 And Track (73.2788mm,28.8038mm)(74.3528mm,28.8038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (73.2788mm,28.8038mm)(74.3528mm,28.8038mm) on SIG1 And Track (73.6154mm,29.2038mm)(74.3528mm,29.2038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (73.4002mm,26.0038mm)(74.3528mm,26.0038mm) on SIG1 And Track (73.66402mm,25.6038mm)(74.3528mm,25.6038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (73.6154mm,29.2038mm)(74.3528mm,29.2038mm) on SIG1 And Track (74.3528mm,29.6038mm)(74.3528mm,30.092mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (73.66402mm,25.6038mm)(74.3528mm,25.6038mm) on SIG1 And Track (74.3528mm,24.8482mm)(74.3528mm,25.2038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (73.787mm,22.0726mm)(75.5528mm,23.8384mm) on SIG1 And Track (75.9528mm,23.57458mm)(75.9528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (73.98143mm,21.60321mm)(75.9528mm,23.57458mm) on SIG1 And Track (76.3528mm,23.1652mm)(76.3528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (74.57222mm,24.4038mm)(75.1528mm,24.4038mm) on SIG1 And Track (75.5528mm,23.8384mm)(75.5528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (75.5528mm,23.8384mm)(75.5528mm,24.4038mm) on SIG1 And Track (75.9528mm,23.57458mm)(75.9528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (75.81216mm,21.26237mm)(76.7528mm,22.20301mm) on SIG1 And Track (77.1528mm,21.4846mm)(77.1528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24557mm < 0.31293mm) Between Track (75.9528mm,23.57458mm)(75.9528mm,24.4038mm) on SIG1 And Track (76.3528mm,23.1652mm)(76.3528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (76.7528mm,22.20301mm)(76.7528mm,24.4038mm) on SIG1 And Track (77.1528mm,21.4846mm)(77.1528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24358mm < 0.31293mm) Between Track (76.7588mm,21.0906mm)(77.1528mm,21.4846mm) on SIG1 And Track (77.5528mm,21.4904mm)(77.5528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24358mm < 0.31293mm) Between Track (76.7588mm,21.0906mm)(77.1528mm,21.4846mm) on SIG1 And Track (77.5528mm,21.4904mm)(77.9526mm,21.0906mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (77.1528mm,21.4846mm)(77.1528mm,24.4038mm) on SIG1 And Track (77.5528mm,21.4904mm)(77.5528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (77.1528mm,21.4846mm)(77.1528mm,24.4038mm) on SIG1 And Track (77.5528mm,21.4904mm)(77.9526mm,21.0906mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (77.5528mm,21.4904mm)(77.5528mm,24.4038mm) on SIG1 And Track (77.9528mm,22.18259mm)(77.9528mm,24.4038mm) on SIG1 
-   Violation between Clearance Constraint: (0.24354mm < 0.31293mm) Between Track (77.5528mm,21.4904mm)(77.5528mm,24.4038mm) on SIG1 And Track (77.9528mm,22.18259mm)(78.87303mm,21.26237mm) on SIG1 
-Rule Violations :226
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.1016mm) (All),((InNetClass('JTAG') OR InNetClass('OLED') OR InNetClass('OUT1') OR InNetClass('OUT2') OR InNetClass('SDIO')))
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.1016mm) (InNetClass('MDI')),(InNetClass('MDI'))
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (50.12388mm,99.30131mm)(50.20477mm,99.30131mm) on SIG2 And Track (50.39228mm,98.88088mm)(50.39228mm,99.1138mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (50.12388mm,99.30131mm)(50.20477mm,99.30131mm) on SIG2 And Track (50.39228mm,99.1138mm)(50.61787mm,99.3394mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (50.20477mm,99.30131mm)(50.50803mm,99.60458mm) on SIG2 And Track (50.39228mm,98.88088mm)(50.39228mm,99.1138mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (50.20477mm,99.30131mm)(50.50803mm,99.60458mm) on SIG2 And Track (50.39228mm,99.1138mm)(50.61787mm,99.3394mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (50.20477mm,99.30131mm)(50.50803mm,99.60458mm) on SIG2 And Track (50.61787mm,99.3394mm)(53.17708mm,99.3394mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (50.39228mm,99.1138mm)(50.61787mm,99.3394mm) on SIG2 And Track (50.50803mm,99.60458mm)(53.30796mm,99.60458mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (50.50803mm,99.60458mm)(53.30796mm,99.60458mm) on SIG2 And Track (50.61787mm,99.3394mm)(53.17708mm,99.3394mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (50.50803mm,99.60458mm)(53.30796mm,99.60458mm) on SIG2 And Track (53.17708mm,99.3394mm)(54.6391mm,97.87738mm) on SIG2 
-   Violation between Clearance Constraint: (0.16728mm < 0.2032mm) Between Track (50.61787mm,99.3394mm)(53.17708mm,99.3394mm) on SIG2 And Track (53.30796mm,99.60458mm)(54.71613mm,98.1964mm) on SIG2 
-   Violation between Clearance Constraint: (0.19202mm < 0.2032mm) Between Track (51.55896mm,55.76418mm)(55.23854mm,55.76418mm) on SIG2 And Track (52.2413mm,55.19157mm)(52.50911mm,55.45938mm) on SIG2 
-   Violation between Clearance Constraint: (0.19202mm < 0.2032mm) Between Track (51.55896mm,55.76418mm)(55.23854mm,55.76418mm) on SIG2 And Track (52.50911mm,55.45938mm)(55.09648mm,55.45938mm) on SIG2 
-   Violation between Clearance Constraint: (0.19202mm < 0.2032mm) Between Track (51.55896mm,55.76418mm)(55.23854mm,55.76418mm) on SIG2 And Track (55.09648mm,55.45938mm)(56.40306mm,54.1528mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (52.45918mm,97.39178mm)(52.98745mm,97.92005mm) on SIG1 And Track (52.80114mm,98.1964mm)(61.73838mm,98.1964mm) on SIG1 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (52.80114mm,98.1964mm)(61.73838mm,98.1964mm) on SIG1 And Track (52.98745mm,97.92005mm)(61.55207mm,97.92005mm) on SIG1 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (52.80114mm,98.1964mm)(61.73838mm,98.1964mm) on SIG1 And Track (61.55207mm,97.92005mm)(64.95567mm,94.51645mm) on SIG1 
-   Violation between Clearance Constraint: (0.16728mm < 0.2032mm) Between Track (53.17708mm,99.3394mm)(54.6391mm,97.87738mm) on SIG2 And Track (53.30796mm,99.60458mm)(54.71613mm,98.1964mm) on SIG2 
-   Violation between Clearance Constraint: (0.16728mm < 0.2032mm) Between Track (53.17708mm,99.3394mm)(54.6391mm,97.87738mm) on SIG2 And Track (54.71613mm,98.1964mm)(61.71637mm,98.1964mm) on SIG2 
-   Violation between Clearance Constraint: (0.19421mm < 0.2032mm) Between Track (54.00986mm,54.49246mm)(83.30979mm,54.49246mm) on SIG1 And Track (83.43259mm,54.81961mm)(83.62423mm,54.62797mm) on SIG1 
-   Violation between Clearance Constraint: (0.1778mm < 0.2032mm) Between Track (71.73774mm,51.20335mm)(80.32256mm,51.20335mm) on SIG2 And Track (72.0025mm,50.36557mm)(72.54971mm,50.91278mm) on SIG2 
-   Violation between Clearance Constraint: (0.1778mm < 0.2032mm) Between Track (71.73774mm,51.20335mm)(80.32256mm,51.20335mm) on SIG2 And Track (72.54971mm,50.91278mm)(80.16628mm,50.91278mm) on SIG2 
-   Violation between Clearance Constraint: (0.1778mm < 0.2032mm) Between Track (71.73774mm,51.20335mm)(80.32256mm,51.20335mm) on SIG2 And Track (80.16628mm,50.91278mm)(84.54626mm,46.5328mm) on SIG2 
-   Violation between Clearance Constraint: (0.1778mm < 0.2032mm) Between Track (81.34782mm,90.5957mm)(84.99627mm,86.94725mm) on SIG1 And Track (84.83536mm,86.6455mm)(94.74263mm,86.6455mm) on SIG1 
-   Violation between Clearance Constraint: (0.19421mm < 0.2032mm) Between Track (83.30979mm,54.49246mm)(85.22425mm,52.578mm) on SIG1 And Track (83.43259mm,54.81961mm)(83.62423mm,54.62797mm) on SIG1 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (83.30979mm,54.49246mm)(85.22425mm,52.578mm) on SIG1 And Track (83.62423mm,54.61527mm)(83.62423mm,54.62797mm) on SIG1 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (83.30979mm,54.49246mm)(85.22425mm,52.578mm) on SIG1 And Track (83.62423mm,54.61527mm)(85.35232mm,52.88719mm) on SIG1 
-   Violation between Clearance Constraint: (0.1905mm < 0.2032mm) Between Track (83.30979mm,54.49246mm)(85.22425mm,52.578mm) on SIG1 And Track (85.06333mm,52.26355mm)(93.81795mm,52.26355mm) on SIG1 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (83.30979mm,54.49246mm)(85.22425mm,52.578mm) on SIG1 And Track (85.35232mm,52.88719mm)(89.58473mm,52.88719mm) on SIG1 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (83.62423mm,54.61527mm)(85.35232mm,52.88719mm) on SIG1 And Track (85.22425mm,52.578mm)(89.7128mm,52.578mm) on SIG1 
-   Violation between Clearance Constraint: (0.1778mm < 0.2032mm) Between Track (84.83536mm,86.6455mm)(94.74263mm,86.6455mm) on SIG1 And Track (84.99627mm,86.94725mm)(91.87485mm,86.94725mm) on SIG1 
-   Violation between Clearance Constraint: (0.1778mm < 0.2032mm) Between Track (84.83536mm,86.6455mm)(94.74263mm,86.6455mm) on SIG1 And Track (91.87485mm,86.94725mm)(93.49mm,88.5624mm) on SIG1 
-   Violation between Clearance Constraint: (0.1905mm < 0.2032mm) Between Track (85.06333mm,52.26355mm)(93.81795mm,52.26355mm) on SIG1 And Track (85.22425mm,52.578mm)(89.7128mm,52.578mm) on SIG1 
-   Violation between Clearance Constraint: (0.1905mm < 0.2032mm) Between Track (85.06333mm,52.26355mm)(93.81795mm,52.26355mm) on SIG1 And Track (89.7128mm,52.578mm)(90.1446mm,53.0098mm) on SIG1 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (85.22425mm,52.578mm)(89.7128mm,52.578mm) on SIG1 And Track (85.35232mm,52.88719mm)(89.58473mm,52.88719mm) on SIG1 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (85.22425mm,52.578mm)(89.7128mm,52.578mm) on SIG1 And Track (89.58473mm,52.88719mm)(89.9414mm,53.24386mm) on SIG1 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (85.35232mm,52.88719mm)(89.58473mm,52.88719mm) on SIG1 And Track (89.7128mm,52.578mm)(90.1446mm,53.0098mm) on SIG1 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (85.77968mm,33.10738mm)(92.06466mm,26.8224mm) on SIG2 And Track (91.88298mm,26.55722mm)(93.94049mm,26.55722mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (86.49561mm,52.90515mm)(86.90236mm,53.3119mm) on SIG2 And Track (87.16753mm,53.13022mm)(87.16753mm,53.90595mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (86.90236mm,53.3119mm)(86.90236mm,54.01579mm) on SIG2 And Track (87.16753mm,53.13022mm)(87.16753mm,53.90595mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (86.90236mm,53.3119mm)(86.90236mm,54.01579mm) on SIG2 And Track (87.16753mm,53.90595mm)(87.36253mm,54.10095mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (86.90236mm,54.01579mm)(87.21095mm,54.32438mm) on SIG2 And Track (87.16753mm,53.13022mm)(87.16753mm,53.90595mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (86.90236mm,54.01579mm)(87.21095mm,54.32438mm) on SIG2 And Track (87.16753mm,53.90595mm)(87.36253mm,54.10095mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (86.90236mm,54.01579mm)(87.21095mm,54.32438mm) on SIG2 And Track (87.36253mm,54.10095mm)(88.33905mm,54.10095mm) on SIG2 
-   Violation between Clearance Constraint: (0.15722mm < 0.2032mm) Between Track (87.16753mm,53.90595mm)(87.36253mm,54.10095mm) on SIG2 And Track (87.21095mm,54.32438mm)(87.21095mm,55.22905mm) on SIG2 
-   Violation between Clearance Constraint: (0.15722mm < 0.2032mm) Between Track (87.21095mm,54.32438mm)(87.21095mm,55.22905mm) on SIG2 And Track (87.36253mm,54.10095mm)(88.33905mm,54.10095mm) on SIG2 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (89.58473mm,52.88719mm)(89.9414mm,53.24386mm) on SIG1 And Track (89.7128mm,52.578mm)(90.1446mm,53.0098mm) on SIG1 
-   Violation between Clearance Constraint: (0.18524mm < 0.2032mm) Between Track (89.58473mm,52.88719mm)(89.9414mm,53.24386mm) on SIG1 And Track (90.1446mm,53.0098mm)(92.4698mm,53.0098mm) on SIG1 
-   Violation between Clearance Constraint: (0.18601mm < 0.2032mm) Between Track (89.7128mm,52.578mm)(90.1446mm,53.0098mm) on SIG1 And Track (89.9414mm,53.24386mm)(89.9414mm,54.26254mm) on SIG1 
-   Violation between Clearance Constraint: (0.18601mm < 0.2032mm) Between Track (89.9414mm,53.24386mm)(89.9414mm,54.26254mm) on SIG1 And Track (90.1446mm,53.0098mm)(92.4698mm,53.0098mm) on SIG1 
-   Violation between Clearance Constraint: (0.19911mm < 0.2032mm) Between Track (90.42098mm,29.35979mm)(93.87579mm,29.35979mm) on SIG2 And Track (94.00089mm,29.04382mm)(94.17499mm,29.21791mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (91.88298mm,26.55722mm)(93.94049mm,26.55722mm) on SIG2 And Track (92.06466mm,26.8224mm)(94.05033mm,26.8224mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (91.88298mm,26.55722mm)(93.94049mm,26.55722mm) on SIG2 And Track (94.05033mm,26.8224mm)(94.26541mm,26.60731mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (92.06466mm,26.8224mm)(94.05033mm,26.8224mm) on SIG2 And Track (93.94049mm,26.55722mm)(94.2848mm,26.21291mm) on SIG2 
-   Violation between Clearance Constraint: (0.19911mm < 0.2032mm) Between Track (93.87579mm,29.35979mm)(94.04776mm,29.53176mm) on SIG2 And Track (94.00089mm,29.04382mm)(94.17499mm,29.21791mm) on SIG2 
-   Violation between Clearance Constraint: (0.19911mm < 0.2032mm) Between Track (93.87579mm,29.35979mm)(94.04776mm,29.53176mm) on SIG2 And Track (94.17499mm,29.21791mm)(95.61336mm,29.21791mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (93.94049mm,26.55722mm)(94.2848mm,26.21291mm) on SIG2 And Track (94.05033mm,26.8224mm)(94.26541mm,26.60731mm) on SIG2 
-   Violation between Clearance Constraint: (0.1524mm < 0.2032mm) Between Track (93.94049mm,26.55722mm)(94.2848mm,26.21291mm) on SIG2 And Track (94.26541mm,26.60731mm)(95.62884mm,26.60731mm) on SIG2 
-Rule Violations :56
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.1016mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Pad C81-1(81.4324mm,65.929mm) on SIG3 And Track (81.42981mm,65.94591mm)(81.4383mm,65.9544mm) on SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Pad C81-1(81.4324mm,65.929mm) on SIG3 And Track (81.4383mm,65.22751mm)(81.4383mm,65.9544mm) on SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Pad C84-1(80.3854mm,65.937mm) on SIG3 And Track (80.37691mm,65.92851mm)(80.3854mm,65.937mm) on SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Pad C84-1(80.3854mm,65.937mm) on SIG3 And Track (80.3854mm,65.21011mm)(80.3854mm,65.937mm) on SIG3 
-   Violation between Clearance Constraint: (0.09148mm < 0.1016mm) Between Track (71.22586mm,71.76313mm)(74.56064mm,71.76313mm) on SIG2 And Via (73.5584mm,72.136mm) from SIG1 to SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Track (80.37691mm,65.92851mm)(80.3854mm,65.937mm) on SIG3 And Track (80.3854mm,65.937mm)(80.4028mm,65.9544mm) on SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Track (80.37691mm,65.92851mm)(80.3854mm,65.937mm) on SIG3 And Track (80.4028mm,65.9544mm)(82.4738mm,65.9544mm) on SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Track (80.3854mm,65.21011mm)(80.3854mm,65.937mm) on SIG3 And Track (80.3854mm,65.937mm)(80.4028mm,65.9544mm) on SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Track (80.3854mm,65.21011mm)(80.3854mm,65.937mm) on SIG3 And Track (80.4028mm,65.9544mm)(82.4738mm,65.9544mm) on SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Track (80.4028mm,65.9544mm)(82.4738mm,65.9544mm) on SIG3 And Track (81.42981mm,65.94591mm)(81.4383mm,65.9544mm) on SIG3 
-   Violation between Clearance Constraint: (Collision < 0.1016mm) Between Track (80.4028mm,65.9544mm)(82.4738mm,65.9544mm) on SIG3 And Track (81.4383mm,65.22751mm)(81.4383mm,65.9544mm) on SIG3 
-Rule Violations :11
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.17257 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.17785 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.18357 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.18357 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.18357 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.18357 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.18357 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.18357 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.18357 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.20135 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.20531 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.20637 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Copper island connected to pads/vias detected. Copper area is : 0.21911 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on GND1. Dead copper detected. Copper area is : 0.23066 sq. mm
-Rule Violations :14
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.14249mm) (Max=0.15646mm) (Preferred=0.15646mm) ((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
-   Violation between Width Constraint: Track (42.799mm,92.5322mm)(45.0939mm,92.5322mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (42.799mm,95.25mm)(45.09799mm,95.25mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (43.0276mm,91.186mm)(45.3136mm,91.186mm) on SIG1 Actual Width = 0.1524mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.0823mm,93.866mm)(45.1024mm,93.8459mm) on SIG1 Actual Width = 0.1524mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.09396mm,96.6216mm)(45.1024mm,96.63004mm) on SIG1 Actual Width = 0.1524mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.0939mm,92.5322mm)(45.1024mm,92.5237mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.0939mm,92.5322mm)(45.4914mm,92.5322mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.09799mm,95.25mm)(45.1024mm,95.24559mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.09799mm,95.25mm)(45.5168mm,95.25mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.1024mm,91.8718mm)(45.1024mm,92.5237mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.1024mm,93.1926mm)(45.1024mm,93.8459mm) on SIG1 Actual Width = 0.1524mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.1024mm,94.5642mm)(45.1024mm,95.24559mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.1024mm,96.63004mm)(45.1024mm,97.3074mm) on SIG1 Actual Width = 0.1524mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.3136mm,91.186mm)(47.1936mm,93.066mm) on SIG1 Actual Width = 0.1524mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.4914mm,92.5322mm)(46.4252mm,93.466mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (45.5168mm,95.25mm)(46.5008mm,94.266mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (46.4252mm,93.466mm)(48.4956mm,93.466mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (46.5008mm,94.266mm)(48.4956mm,94.266mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (47.1936mm,93.066mm)(48.4956mm,93.066mm) on SIG1 Actual Width = 0.1524mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (50.5968mm,84.7344mm)(51.1302mm,85.2678mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (51.1302mm,85.2678mm)(51.1302mm,86.5166mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (51.1302mm,86.5166mm)(51.48485mm,86.87125mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (51.48485mm,86.87125mm)(51.48485mm,86.88525mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (51.48485mm,86.88525mm)(51.6816mm,87.082mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-   Violation between Width Constraint: Track (51.6816mm,87.082mm)(51.6956mm,87.082mm) on SIG1 Actual Width = 0.14249mm, Target Width = 0.15646mm
-Rule Violations :25
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.127mm) (Max=0.508mm) (Preferred=0.127mm) (All)
-   Violation between Width Constraint: Track (75.4786mm,105.0336mm)(76.4494mm,105.0336mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (76.4494mm,105.0336mm)(76.9888mm,104.4942mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (76.9888mm,104.4942mm)(78.4352mm,104.4942mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (92.2528mm,101.0158mm)(92.8624mm,101.0158mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (92.25mm,101.0158mm)(92.25mm,102.2378mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (92.25mm,102.2378mm)(92.25mm,104mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (92.25mm,102.2378mm)(92.8624mm,101.6254mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (92.8624mm,101.0158mm)(93.472mm,101.0158mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (92.8624mm,101.6254mm)(93.472mm,101.0158mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (93.472mm,101.0158mm)(96.5454mm,101.0158mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (93.48mm,104mm)(93.48mm,106.0704mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (96.52mm,104mm)(96.52mm,106.0196mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (96.5454mm,101.0158mm)(97.1296mm,101.0158mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (96.5454mm,101.0158mm)(97.155mm,101.6254mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (97.1296mm,101.0158mm)(97.7392mm,101.0158mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (97.155mm,101.6254mm)(97.7392mm,102.2096mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (97.7392mm,101.01275mm)(97.7392mm,101.0158mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (97.7392mm,101.0158mm)(97.7392mm,101.6mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (97.7392mm,101.0158mm)(97.74225mm,101.0158mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (97.7392mm,101.6mm)(97.7392mm,102.2096mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-   Violation between Width Constraint: Track (97.7392mm,102.2204mm)(97.7392mm,103.9892mm) on SIG1 Actual Width = 0.762mm, Target Width = 0.508mm
-Rule Violations :21
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.14249mm) (Max=0.15646mm) (Preferred=0.15646mm) ((InNetClass('JTAG') OR InNetClass('OLED') OR InNetClass('OUT1') OR InNetClass('OUT2') OR InNetClass('SDIO')))
 Rule Violations :0
@@ -392,169 +37,22 @@ Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (Preferr
 Rule Violations :0
 
 Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=3.5mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.45mm) (MaxWidth=6mm) (PreferedWidth=0.45mm) (All)
-   Violation between Routing Via Style: Via (62.611mm,101.6762mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (62.8396mm,108.3564mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (63.4746mm,101.6762mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (64.3128mm,101.6762mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (64.3128mm,102.8192mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (64.5668mm,108.3564mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (65.2272mm,101.6762mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (65.2272mm,102.8192mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (66.0908mm,101.6762mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (66.0908mm,102.8192mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (66.294mm,108.3818mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (67.0052mm,101.6762mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (67.0052mm,102.8192mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (67.9704mm,101.6762mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (68.0212mm,108.3818mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (69.7484mm,108.3818mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (71.4756mm,108.3818mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (73.2028mm,108.3818mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (74.93mm,108.3818mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (76.6572mm,108.3818mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (78.3844mm,108.3818mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (79.9084mm,104.1146mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (79.9084mm,104.9274mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (80.6958mm,104.1146mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (80.6958mm,104.9274mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (81.5086mm,104.1146mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-   Violation between Routing Via Style: Via (81.5086mm,104.9274mm) from SIG1 to SIG3 Actual Size : 0.4mm Actual Hole Size : 0.2mm
-Rule Violations :27
+Rule Violations :0
 
 Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.45mm) (MaxWidth=0.45mm) (PreferedWidth=0.45mm) ((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-   Violation between Starved Thermal on GND1: Via (22.5806mm,97.3582mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (22.5806mm,97.3582mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (23.241mm,97.95919mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (23.241mm,97.95919mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (23.241mm,99.15919mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (23.241mm,99.15919mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (26.071mm,97.9568mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (26.071mm,97.9568mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (26.071mm,99.1568mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (26.071mm,99.1568mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (26.6954mm,97.3582mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (26.6954mm,97.3582mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (31.2166mm,97.028mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (31.2166mm,97.028mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (31.2166mm,98.2472mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (31.841mm,97.65919mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (31.841mm,97.65919mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (31.841mm,98.85919mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (31.841mm,98.85919mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (34.671mm,97.6568mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (34.671mm,97.6568mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (34.671mm,98.8568mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (34.671mm,98.8568mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (35.2044mm,98.2472mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (51.394mm,72.565mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (51.394mm,72.565mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (51.4956mm,93.266mm) from SIG1 to SIG3. Only 47% copper is connected to the hole.
-   Violation between Starved Thermal on GND2: Via (51.4956mm,93.266mm) from SIG1 to SIG3. Only 47% copper is connected to the hole.
-   Violation between Starved Thermal on GND1: Via (52.5116mm,49.8856mm) from SIG1 to SIG3. Only 47% copper is connected to the hole.
-   Violation between Starved Thermal on GND2: Via (52.5116mm,49.8856mm) from SIG1 to SIG3. Only 47% copper is connected to the hole.
-   Violation between Starved Thermal on GND1: Via (52.5116mm,71.4474mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (52.5116mm,71.4474mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (52.5116mm,72.565mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (52.5116mm,72.565mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (52.5116mm,73.6826mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (52.5116mm,73.6826mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (53.6292mm,72.565mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (53.6292mm,72.565mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (53.848mm,64.7446mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (59.698mm,70.1548mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (59.698mm,70.1548mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (59.698mm,71.247mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (59.698mm,71.247mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (60.11883mm,16.09032mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (64.3128mm,101.6762mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (64.3128mm,102.8192mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (65.2272mm,101.6762mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (65.2272mm,102.8192mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (66.0908mm,101.6762mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (66.0908mm,102.8192mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (67.0052mm,101.6762mm) from SIG1 to SIG3. Only 48% copper is connected to the hole.
-   Violation between Starved Thermal on GND1: Via (71.206mm,45.133mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (71.206mm,45.133mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (71.206mm,65.58mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (71.206mm,65.58mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (71.206mm,86.0016mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (71.206mm,86.0016mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,44.0154mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,44.0154mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,45.133mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,45.133mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,46.2506mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,46.2506mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,64.4624mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,64.4624mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,65.58mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,65.58mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,66.6976mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,66.6976mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,84.884mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,84.884mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,86.0016mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,86.0016mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (72.3236mm,87.1192mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (72.3236mm,87.1192mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (72.517mm,57.6754mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (72.517mm,78.0542mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (73.4412mm,45.133mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (73.4412mm,45.133mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (73.4412mm,65.58mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (73.4412mm,65.58mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (73.4412mm,86.0016mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (73.4412mm,86.0016mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (73.6092mm,57.6754mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (73.6092mm,78.0542mm) from SIG1 to SIG3. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (77.3684mm,27.4066mm) from SIG1 to SIG3. Only 47% copper is connected to the hole.
-   Violation between Starved Thermal on GND2: Via (77.3684mm,27.4066mm) from SIG1 to SIG3. Only 47% copper is connected to the hole.
-   Violation between Starved Thermal on POWER: Via (80.6958mm,104.1146mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on POWER: Via (80.6958mm,104.9274mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (92.2528mm,101.0158mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (92.2528mm,101.0158mm) from SIG1 to SIG3. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (92.2528mm,101.6254mm) from SIG1 to SIG3. Only 33% copper is connected to the hole.
-   Violation between Starved Thermal on GND2: Via (92.2528mm,101.6254mm) from SIG1 to SIG3. Only 33% copper is connected to the hole.
-   Violation between Starved Thermal on GND1: Via (92.8624mm,101.0158mm) from SIG1 to SIG3. Only 40% copper is connected to the hole.
-   Violation between Starved Thermal on GND2: Via (92.8624mm,101.0158mm) from SIG1 to SIG3. Only 40% copper is connected to the hole.
-   Violation between Starved Thermal on GND1: Via (92.8624mm,101.6254mm) from SIG1 to SIG3. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (92.8624mm,101.6254mm) from SIG1 to SIG3. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (97.1296mm,101.0158mm) from SIG1 to SIG3. Only 37% copper is connected to the hole.
-   Violation between Starved Thermal on GND2: Via (97.1296mm,101.0158mm) from SIG1 to SIG3. Only 37% copper is connected to the hole.
-   Violation between Starved Thermal on GND1: Via (97.155mm,101.6254mm) from SIG1 to SIG3. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on GND2: Via (97.155mm,101.6254mm) from SIG1 to SIG3. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on GND1: Via (97.7392mm,101.0158mm) from SIG1 to SIG3. Only 40% copper is connected to the hole.
-   Violation between Starved Thermal on GND2: Via (97.7392mm,101.0158mm) from SIG1 to SIG3. Only 40% copper is connected to the hole.
-   Violation between Starved Thermal on GND1: Via (97.7392mm,101.6mm) from SIG1 to SIG3. Only 38% copper is connected to the hole.
-   Violation between Starved Thermal on GND2: Via (97.7392mm,101.6mm) from SIG1 to SIG3. Only 38% copper is connected to the hole.
-Rule Violations :105
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=5.08mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (49.95276mm,99.22144mm) from SIG1 to SIG3 And Via (50.3428mm,98.8314mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (50.76556mm,55.58424mm) from SIG1 to SIG3 And Via (51.1556mm,55.1942mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (51.0286mm,98.7044mm) from SIG1 to SIG3 And Via (51.41864mm,98.31436mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (51.04496mm,78.06324mm) from SIG1 to SIG3 And Via (51.435mm,77.6732mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (51.95936mm,77.45364mm) from SIG1 to SIG3 And Via (52.3494mm,77.0636mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (52.01016mm,55.12704mm) from SIG1 to SIG3 And Via (52.4002mm,54.737mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.21202mm < 0.254mm) Between Via (60.11483mm,16.60232mm) from SIG1 to SIG3 And Via (60.11883mm,16.09032mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (70.60296mm,50.68204mm) from SIG1 to SIG3 And Via (70.993mm,50.292mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (70.60296mm,71.30684mm) from SIG1 to SIG3 And Via (70.993mm,70.9168mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (71.77136mm,50.30104mm) from SIG1 to SIG3 And Via (72.1614mm,49.911mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (71.79676mm,70.67184mm) from SIG1 to SIG3 And Via (72.1868mm,70.2818mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (71.82216mm,91.27124mm) from SIG1 to SIG3 And Via (72.2122mm,90.8812mm) from SIG1 to SIG3 
-   Violation between Hole To Hole Clearance Constraint: (0.2516mm < 0.254mm) Between Via (76.80056mm,32.72424mm) from SIG1 to SIG3 And Via (77.1906mm,32.3342mm) from SIG1 to SIG3 
-Rule Violations :13
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (80.3854mm,65.21011mm)(80.3854mm,65.937mm) on SIG3 
-   Violation between Net Antennae: Track (81.4383mm,65.22751mm)(81.4383mm,65.9544mm) on SIG3 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Length Constraint (Min=0mm) (Max=2540mm) ((InNetClass('RGMII0A') AND InNetClass('RGMII1A') AND InNetClass('RGMII2A') AND InNetClass('RGMII3A') AND InNetClass('RGMII4A') AND InNetClass('RGMII5A') AND InNetClass('RGMII6A')))
 Rule Violations :0
@@ -605,6 +103,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 500
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:09
+Time Elapsed        : 00:00:05

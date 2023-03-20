@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=PHY3_1V05A Pin=BUS1-U11
-Added Pin To Net: NetName=NetBUS1_U11 Pin=BUS1-U11
-Added Pin To Net: NetName=PHY3_1V05A Pin=U8-3
