@@ -1,18 +1,18 @@
 Protel Design System Design Rule Check
 PCB File : E:\1.My_Tech_Studio\1.Project\MyOECU\pcb\OECU_BASE\OECU_BASE.PcbDoc
-Date     : 2023/3/19
-Time     : 18:42:17
+Date     : 2023/3/23
+Time     : 20:46:30
 
-Processing Rule : Clearance Constraint (Gap=0.1016mm) (All),((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
+Processing Rule : Clearance Constraint (Gap=4mil) (All),((InNetClass('JTAG') OR InNetClass('OLED') OR InNetClass('OUT1') OR InNetClass('OUT2') OR InNetClass('SDIO')))
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.1016mm) (All),((InNetClass('JTAG') OR InNetClass('OLED') OR InNetClass('OUT1') OR InNetClass('OUT2') OR InNetClass('SDIO')))
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.1016mm) (InNetClass('MDI')),(InNetClass('MDI'))
+Processing Rule : Clearance Constraint (Gap=4mil) (All),((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.1016mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=4mil) (InNetClass('MDI')),(InNetClass('MDI'))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -24,85 +24,40 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.14249mm) (Max=0.15646mm) (Preferred=0.15646mm) ((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
+Processing Rule : Width Constraint (Min=5.61mil) (Max=6.16mil) (Preferred=6.16mil) ((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.127mm) (Max=0.508mm) (Preferred=0.127mm) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=20mil) (Preferred=5mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.14249mm) (Max=0.15646mm) (Preferred=0.15646mm) ((InNetClass('JTAG') OR InNetClass('OLED') OR InNetClass('OUT1') OR InNetClass('OUT2') OR InNetClass('SDIO')))
+Processing Rule : Width Constraint (Min=5.61mil) (Max=6.16mil) (Preferred=6.16mil) ((InNetClass('JTAG') OR InNetClass('OLED') OR InNetClass('OUT1') OR InNetClass('OUT2') OR InNetClass('SDIO')))
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.45mm) (MaxWidth=0.45mm) (PreferedWidth=0.45mm) ((InNetClass('JTAG') OR InNetClass('OLED') OR InNetClass('OUT1') OR InNetClass('OUT2') OR InNetClass('SDIO')))
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=17.716mil) (MaxWidth=17.716mil) (PreferedWidth=17.716mil) ((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=3.5mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.45mm) (MaxWidth=6mm) (PreferedWidth=0.45mm) (All)
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=17.716mil) (MaxWidth=17.716mil) (PreferedWidth=17.716mil) ((InNetClass('JTAG') OR InNetClass('OLED') OR InNetClass('OUT1') OR InNetClass('OUT2') OR InNetClass('SDIO')))
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.45mm) (MaxWidth=0.45mm) (PreferedWidth=0.45mm) ((InNetClass('RGMII0') OR InNetClass('RGMII1') OR InNetClass('RGMII2') OR InNetClass('RGMII3') OR InNetClass('RGMII4') OR InNetClass('RGMII5') OR InNetClass('RGMII6')))
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=137.795mil) (PreferredHoleWidth=11.811mil) (MinWidth=17.716mil) (MaxWidth=236.22mil) (PreferedWidth=17.716mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=5.08mm) (All)
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Length Constraint (Min=0mm) (Max=2540mm) ((InNetClass('RGMII0A') AND InNetClass('RGMII1A') AND InNetClass('RGMII2A') AND InNetClass('RGMII3A') AND InNetClass('RGMII4A') AND InNetClass('RGMII5A') AND InNetClass('RGMII6A')))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('MDI0A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('MDI2A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('RGMII0A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('MDI1A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('MDI4A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('MDI5A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('MDI3A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('MDI6A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('RGMII3A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('RGMII2A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('RGMII1A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('RGMII6A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('RGMII5A'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=1.27mm) (InNetClass('RGMII4A'))
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:05
+Time Elapsed        : 00:00:08
