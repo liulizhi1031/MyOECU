@@ -2,7 +2,8 @@
 
 **MyO**pensource**E**mbedded**C**ompute**U**nit (**MyOECU**)
 
-<div align="center"><img src="./img/MyOECU_SW_PIC.jpg" style="zoom:15%;" />
+<div align="center"><img src="./img/MyOECU_SW_PIC.JPG" style="zoom:15%;" />
+
 
 <div align="center"><img src="./img/MyOECU_AD_PIC.jpg" style="zoom:6%;" /> <img src="./img/MyOECU_PIC_1.jpg" style="zoom:10%;" /> 
 
