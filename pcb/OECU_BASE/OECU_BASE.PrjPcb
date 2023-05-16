@@ -182,10 +182,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSIOATYV
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for OECU_BASE\Design Rule Check - OECU_BASE.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -230,7 +226,7 @@ SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=-1
+SaveSettingsToOutJob=0
 
 [Generic_EDE]
 OutputDir=Project Outputs for OECU_BASE
