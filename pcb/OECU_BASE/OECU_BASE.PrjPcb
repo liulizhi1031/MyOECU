@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for OECU_BASE
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -229,7 +229,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for OECU_BASE
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -561,13 +561,13 @@ Configuration1_Item2=False
 Configuration1_Name3=General
 Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1452|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration1_Name4=GroupOrder
-Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Item4=Comment=True|Footprint=True|Layer=True
 Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Item5=Layer=Down
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Designator=120|Comment=120|Quantity=120|Footprint=120|Layer=100|Description=120|LibRef=120
+Configuration1_Item6=Designator=218|Comment=161|Quantity=56|LibRef=160|Layer=59|Description=143|Footprint=161
 Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=Designator=120|Comment=120|Quantity=120|Footprint=120|Layer=100|Description=120|LibRef=120
+Configuration1_Item7=Designator=218|Comment=161|Quantity=56|LibRef=160|Layer=59|Description=143|Footprint=161
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
